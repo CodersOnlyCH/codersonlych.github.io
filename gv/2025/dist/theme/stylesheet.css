@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'siruca';
+    src: url('siruca1.2-webfont.eot');
+    src: url('siruca1.2-webfont.eot?#iefix') format('embedded-opentype'),
+         url('siruca1.2-webfont.woff2') format('woff2'),
+         url('siruca1.2-webfont.woff') format('woff'),
+         url('siruca1.2-webfont.ttf') format('truetype'),
+         url('siruca1.2-webfont.svg#sirucaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
