@@ -1,0 +1,22 @@
+/* @theme codersonly */
+
+@import 'default';
+
+@font-face {
+  font-family: 'siruca';
+  src: url('https://codersonlych.github.io/theme/siruca1.2-webfont.eot');
+  src: url('https://codersonlych.github.io/theme/siruca1.2-webfont.eot?#iefix') format('embedded-opentype'),
+       url('https://codersonlych.github.io/theme/siruca1.2-webfont.woff2') format('woff2'),
+       url('https://codersonlych.github.io/theme/siruca1.2-webfont.woff') format('woff'),
+       url('https://codersonlych.github.io/theme/siruca1.2-webfont.ttf') format('truetype'),
+       url('https://codersonlych.github.io/theme/siruca1.2-webfont.svg#sirucaregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+:root {
+  font-family: 'siruca';
+  background: #000;
+  color: #9d0;
+  text-shadow: 0 0 12px #9d0;
+}

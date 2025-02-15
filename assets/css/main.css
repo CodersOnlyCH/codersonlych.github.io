@@ -1,0 +1,155 @@
+@font-face {
+  font-family: 'pragmata-mono';
+  src: url('/fonts/PragmataPro_Mono_R_liga_0830.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'pragmata';
+  src: url('/fonts/PragmataProR_liga_0830.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'siruca';
+  src: url('/fonts/siruca1.2-webfont.eot');
+  src: url('/fonts/siruca1.2-webfont.eot?#iefix') format('embedded-opentype'),
+       url('/fonts/siruca1.2-webfont.woff2') format('woff2'),
+       url('/fonts/siruca1.2-webfont.woff') format('woff'),
+       url('/fonts/siruca1.2-webfont.ttf') format('truetype'),
+       url('/fonts/siruca1.2-webfont.svg#sirucaregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+:root {
+  --color-main: #2CFF05;
+  --color-alien-hue-1: #45CC2D;
+  --color-alien-hue-2: #45663F;
+  --color-alien-hue-3: #2B332A;
+  --color-80s-disco-1: #D405FF;
+  --color-80s-disco-2: #FF0522;
+  --color-80s-disco-3: #871B3F;
+  --color-square-1: #05A9FF;
+  --color-square-2: #D805FF;
+  --color-square-3: #FF5B05;
+  --color-split-1: #5B05FF;
+  --color-split-2: #FF05A9;
+  --color-monochromatic-1: #20D000;
+  --color-monochromatic-2: #58FF39;
+
+  --color-canvas-default: #000000;
+  --color-fg-accent: var(--color-square-1);
+  --color-fg-default: var(--color-main);
+  --color-border-default: var(--color-alien-hue-1);
+
+  background: var(--color-canvas-default);
+  text-shadow: 0 0 12px var(--color-fg-default);
+}
+
+body {
+  font-family: 'siruca';
+  color: var(--color-fg-default);
+  line-height: 1.5;
+  margin: 1rem;
+  max-width: 768px;
+}
+
+header {
+  border-bottom: 1px solid var(--color-fg-default);
+  margin-bottom: 1rem;
+}
+
+header nav ul {
+  display: flex;
+  gap: 20px;
+  padding: none;
+  padding-inline-start: 0;
+}
+
+header nav li:first-child {
+  list-style: none;
+}
+
+header nav a {
+  color: var(--color-alien-hue-1);
+}
+
+header nav .active {
+  color: var(--color-fg-default);
+}
+
+footer {
+  border-top: 1px solid var(--color-fg-default);
+  margin-top: 1rem;
+}
+
+a {
+  color: var(--color-fg-accent);
+  text-decoration: none;
+  text-shadow: 0 0 12px var(--color-fg-accent);
+}
+
+main :is(p, li, span) {
+  font-family: 'pragmata';
+}
+
+main img {
+ width: 100%;
+ height: auto;
+}
+
+code {
+  font-family: 'pragmata-mono';
+  text-shadow: 0 0 3px var(--color-fg-default);
+  line-height: normal;
+}
+
+pre {
+  line-height: normal;
+}
+
+.sponsor-grid {
+  background: white;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  justify-items: center;
+  align-items: center;
+  padding: 1em;
+}
+
+.sponsor-grid img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.tags ul {
+  display: flex;
+  gap: 20px;
+  padding: none;
+  padding-inline-start: 0;
+}
+
+.tags ul li:first-child {
+  list-style: none;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  justify-content: center;
+}
+
+.box {
+  background-color: var(--color-alien-hue-3);
+  padding: 1em;
+}
+
+.box h2 {
+  margin-top: 0;
+}
