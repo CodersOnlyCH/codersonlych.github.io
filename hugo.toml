@@ -19,7 +19,7 @@ weight = 30
 
 [[menus.main]]
 name = 'Association'
-pageRef = '/verein'
+pageRef = '/association'
 weight = 40
 
 [[menus.main]]
