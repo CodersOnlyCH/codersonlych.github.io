@@ -51,5 +51,36 @@ Account Holder: Coders Only, 8000 Zürich
 {{< /box >}}
 
 {{< box title="Members" >}}
+- Andreas Peter
+- Andrew Magerman
+- Artem Sheremet
+- Christoph Dunkake
+- Colacioiu Marius
+- Corinna Lange
+- Daniel Koller
+- Fabian Egli
+- Gabor Laszlo Lenard
+- Girolamo Marroccoli
+- Guillermo Indalecio
+- Klaudia Izabela Moretti
+- Manuel Müller
+- Marco Ravicini
+- Marcus Fihlon
+- Matthias Osswald
+- Max Aladin von Steiger
+- Oleg Nenashev
+- Oliver Nautsch
+- Oliver Streuli
+- Patrick Scheller
+- Peter Crosby
+- Peter Gfader
+- Peter Koch
+- Raphael Meyer
+- Sebastian Gfeller
+- Stephan Classen
+- Tim Bittins
+- Vasily Tolkachev
+- Viktor Reinok
+- Wolfram Willuhn
 {{< /box >}}
 {{</grid>}}
