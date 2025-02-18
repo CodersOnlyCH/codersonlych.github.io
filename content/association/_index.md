@@ -3,6 +3,7 @@ title = 'Association'
 date = 2023-01-01T08:30:00-07:00
 draft = false
 aliases = ['/verein']
+layout = 'home'
 +++
 
 This section covers the legal part of the association.
