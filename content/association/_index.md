@@ -38,6 +38,7 @@ Account Holder: Coders Only, 8000 Zürich
 - [GitHub](https://github.com/codersonlych)
 - [LinkedIn](https://linkedin.com/company/coders-only)
 - [Mastodon](https://mastodon.social/@codersonly)
+- [Meetup](https://meetup.com/coders-only)
 {{< /box >}}
 
 {{< box title="Documents" >}}
