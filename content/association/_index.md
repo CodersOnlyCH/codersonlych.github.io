@@ -59,38 +59,4 @@ Account Holder: Coders Only, 8000 Zürich
     * [Protocol](documents/ga/2020-06-08/protocol.pdf)
 {{< /box >}}
 
-{{< box title="Members" >}}
-- Andreas Peter
-- Andrew Magerman
-- Christoph Dunkake
-- Corinna Lange
-- Daniel Koller
-- Fabian Egli
-- Gabor Lenard
-- Gioele Moretti
-- Girolamo Marroccoli
-- Guillermo Indalecio
-- Géza Mihala
-- Jonathan Crosby
-- Manuel Müller
-- Marco Ravicini
-- Marcus Fihlon
-- Marius Colacioiu
-- Matthias Osswald
-- Max von Steiger
-- Oleg Nenashev
-- Oliver Nautsch
-- Oliver Streuli
-- Pablo Vergés
-- Patrick Scheller
-- Peter Gfader
-- Peter Koch
-- Raphael Meyer
-- Sebastian Gfeller
-- Stephan Classen
-- Tim Bittins
-- Vasily Tolkachev
-- Viktor Reinok
-- Wolfram Willuhn
-{{< /box >}}
 {{</grid>}}
