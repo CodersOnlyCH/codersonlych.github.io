@@ -32,6 +32,14 @@ Account Holder: Coders Only, 8000 Zürich
 - Pablo Verges
 {{< /box >}}
 
+{{< box title="Channels" >}}
+- [Discord](https://discord.gg/jWUZsKQvrz)
+- [E-Mail](mailto:contact@codersonly.org)
+- [GitHub](https://github.com/codersonlych)
+- [LinkedIn](https://linkedin.com/company/coders-only)
+- [Mastodon](https://mastodon.social/@codersonly)
+{{< /box >}}
+
 {{< box title="Documents" >}}
 - [Bylaws](bylaws)
 - [Founding Charter](documents/founding-charter.pdf)
