@@ -2,6 +2,7 @@
 title = 'Past Events'
 date = 2023-01-01T08:30:00-07:00
 draft = false
+layout = 'events'
 +++
 
 Unfortunately we can't keep track of all of the good moments, since there are way too many.

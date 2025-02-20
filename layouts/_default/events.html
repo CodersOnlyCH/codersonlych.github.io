@@ -1,0 +1,15 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  <ul class="events">
+  {{ range .Pages }}
+  <li>
+    <a href="{{ .RelPermalink }}"
+       class="{{ partial "classes.html" (dict "taxonomy" "tags" "page" .) }}" 
+    >
+      {{ .LinkTitle }} ({{ .Date | time.Format ":date_medium" }})
+    </a>
+  </li>
+  {{ end }}
+  </ul>
+{{ end }}
