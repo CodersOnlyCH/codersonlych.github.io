@@ -23,11 +23,11 @@ By supporting us, you gain visibility among a dedicated audience of software
 engineers, architects, and industry leaders who are committed to continuous
 learning and improvement. As a sponsor, you will:
 
-[x] Support the growth of Swiss software craftsmanship – Your contribution helps ensure inclusive, high-quality events that inspire and educate developers.  
-[x] Be featured on our website – Your company logo will appear on codersonly.org with a link to your homepage.  
-[x] Gain exposure at our events – Your logo will be presented at the beginning of each event.  
-[x] Be included in our event promotions – We will include a link to your homepage in event invitations sent to our community.  
-[x] Be introduced to our members – New sponsors receive a dedicated introduction via email and/or social media.  
+- *Support the growth of Swiss software craftsmanship*: Your contribution helps ensure inclusive, high-quality events that inspire and educate developers.
+- *Be featured on our website*: Your company logo will appear on codersonly.org with a link to your homepage.
+- *Gain exposure at our events*: Your logo will be presented at the beginning of each event.
+- *Be included in our event promotions*: We will include a link to your homepage in event invitations sent to our community.
+- *Be introduced to our members*: New sponsors receive a dedicated introduction via email and/or social media.
 
 ## Join Us in Shaping the Future
 By sponsoring Coders Only, you’re not just supporting events—you’re investing

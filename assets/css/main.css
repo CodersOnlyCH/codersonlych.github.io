@@ -123,6 +123,22 @@ pre {
   line-height: normal;
 }
 
+h2 {
+  color: var(--color-80s-disco-1);
+  text-shadow: 0 0 12px var(--color-80s-disco-1);
+}
+
+em {
+  font-style: normal;
+  color: var(--color-80s-disco-2);
+  text-shadow: 0 0 12px var(--color-80s-disco-2);
+}
+
+li, p {
+  color: var(--color-alien-hue-1);
+  text-shadow: 0 0 12px var(--color-alien-hue-1);
+}
+
 .sponsor-grid {
   background: white;
   display: grid;
