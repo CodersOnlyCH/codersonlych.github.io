@@ -1,29 +1,26 @@
 +++
-title = 'General Assembly 2025'
-date = 2025-01-21T20:00:00-00:00
+title = 'General Assembly 2024'
+date = 2024-09-05T19:30:00-00:00
 draft = false
 +++
 
 ## Präsentation
 
-{{< iframe "/gv/2025.html" >}}
+{{< iframe "/gv/2024.html" >}}
 
-## Protokoll der Generalversammlung des Vereins CodersOnly am 21. Januar 2025
+## Protokoll der Generalversammlung des Vereins CodersOnly am 5. September 2024
 
-Ort: Bring! Labs AG, Räffelstrasse 26, 8045 Zürich  
-Beginn: 19:00 Uhr
+Ort: Petit-Bureau, Badenerstrasse 230, 8004 Zürich
+Beginn: 18:30 Uhr
 
 Anwesende Mitglieder:
 - Andrew Magerman
 - Geza Mihala
-- Mathias Osswald
 - Pablo Vergés
 - Wolfram Willuhn  
 
 Anwesende Sponsoren:  
-- Bring! Labs AG  
-- House of Test  
-- megazord.studio  
+Keine
 
 ## Traktanden
 
@@ -35,25 +32,20 @@ Mitglieder und eröffnet die Generalversammlung des Vereins CodersOnly.
 ### 2. Wahl der Stimmenzähler / des Protokollführers
 
 #### 2.1 Wahl der Stimmenzähler
-
 Es werden 2 Stimmenzähler gewählt. Géza Mihala und Wolfram Willuhn erklären
 sich bereit, das Amt zu übernehmen.
 
 #### 2.2 Wahl des Protokollanten
-
 Als Protokollant wird Andrew gewählt.
 
 #### 2.3 Bestimmen stimmberechtigte Mitglieder und Sponsoren
+Es werden 4 stimmberechtigte Mitglieder und 0 Sponsoren festgestellt.
 
-Es werden 5 stimmberechtigte Mitglieder und 3 Sponsoren festgestellt.
-
-### 3. Abnahme des Generalversammlungsprotokoll 2024
-
-Das Protokoll der Generalversammlung 2024 des Vereins wird einstimmig
+### 3. Abnahme des Generalversammlungsprotokoll 2023
+Das Protokoll der Generalversammlung 2023 des Vereins wird einstimmig
 angenommen.
 
 ### 4. Bericht des Vorstands
-
 Pablo gibt einen Bericht über die Aktivitäten des Vereins im vergangenen Jahr.
 Er erwähnt dabei insbesondere die erfolgreichen Veranstaltungen und bedankt
 sich bei allen Mitgliedern und Sponsoren für ihre Unterstützung.
@@ -70,9 +62,9 @@ einstimmig entlastet.
 ### 7. Wahl des Vorstandes
 
 #### 7.1 Wahl des Vorstandes
-Es werden 4 Vorstandsmitglieder gewählt. Andrew Magerman, Mathias Osswald,
-Oliver Nautsch und Pablo Vergés erklären sich bereit, das Amt zu übernehmen.
-Alle vier Kandidaten werden einstimmig gewählt.
+Es werden 3 Vorstandsmitglieder gewählt. Andrew Magerman, Oliver Nautsch und
+Pablo Vergés erklären sich bereit, das Amt zu übernehmen.  Alle drei Kandidaten
+werden einstimmig gewählt.
 
 #### 7.2 Wahl des Vorsitzendes des Vorstandes
 Es wird ein Vorsitzender des Vorstandes gewählt. Pablo Vergés erklärt sich
@@ -88,10 +80,23 @@ Veranstaltungen.
 
 ### 10. Varia
 
-#### 10.1 Diverse Ideen ueber Swag/Goodies:
-- A5 Notebook a la moleskin
-- Nametag
-- Laptop oder Smartphone skins (aber schwierig: one-size-fits-all)
+#### 10.1 Verbesserungen an der Generalversammlung
+Um das häufige Blättern zu vermeiden, soll der Vergleich der Ausgaben mit dem
+Vorjahr künftig auf derselben Folie dargestellt werden. Zudem wurde angeregt,
+dass das Wachstum bei Mitgliedern und Sponsoren in der Generalversammlung
+deutlicher sichtbar gemacht wird.
+
+#### 10.2 Marketing / Branding
+Coders Only verfügt über ausreichend finanzielle Mittel, um in Werbeartikel
+(SWAG) zu investieren. Es wird mehr Aktivität in diesem Bereich angestrebt.
+Zudem besteht die Möglichkeit, durch das Sponsoring von bestehenden Communities
+sowohl Gutes zu tun als auch die Sichtbarkeit von Coders Only zu erhöhen.
+
+#### 10.1 Verbesserungen an der Generalversammlung
+Um das häufige Blättern zu vermeiden, soll der Vergleich der Ausgaben mit dem
+Vorjahr künftig auf derselben Folie dargestellt werden.  Zudem wurde angeregt,
+dass das Wachstum bei Mitgliedern und Sponsoren in der Generalversammlung
+deutlicher sichtbar gemacht wird.
 
 ### 11. Schlusswort
 Der Vorstand bedankt sich bei allen Anwesenden und schliesst die
