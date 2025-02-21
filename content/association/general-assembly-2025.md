@@ -8,14 +8,14 @@ draft = false
 
 {{< iframe "/gv/2025.html" >}}
 
-## Protokoll der Generalversammlung des Vereins CodersOnly am 21. Januar 2025
+## Protokoll der Generalversammlung des Vereins Coders Only am 21. Januar 2025
 
 Ort: Bring! Labs AG, Räffelstrasse 26, 8045 Zürich  
 Beginn: 19:00 Uhr
 
 Anwesende Mitglieder:
 - Andrew Magerman
-- Geza Mihala
+- Géza Mihala
 - Mathias Osswald
 - Pablo Vergés
 - Wolfram Willuhn  

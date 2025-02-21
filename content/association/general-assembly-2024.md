@@ -8,14 +8,14 @@ draft = false
 
 {{< iframe "../documents/ga/2024-09-05/slides.pdf" >}}
 
-## Protokoll der Generalversammlung des Vereins CodersOnly am 5. September 2024
+## Protokoll der Generalversammlung des Vereins Coders Only am 5. September 2024
 
 Ort: Petit-Bureau, Badenerstrasse 230, 8004 Zürich
 Beginn: 18:30 Uhr
 
 Anwesende Mitglieder:
 - Andrew Magerman
-- Geza Mihala
+- Géza Mihala
 - Pablo Vergés
 - Wolfram Willuhn  
 
