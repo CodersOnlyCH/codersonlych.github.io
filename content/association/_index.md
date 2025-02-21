@@ -46,9 +46,7 @@ Account Holder: Coders Only, 8000 Zürich
 - [Founding Charter](founding-charter)
 - [General Assembly 2025](general-assembly-2025)
 - [General Assembly 2024](general-assembly-2024)
-- General Assembly 2023-04-20
-    * [Protocol](documents/ga/2023-04-20/protocol.pdf)
-    * [Slides](documents/ga/2023-04-20/slides.pdf)
+- [General Assembly 2023](general-assembly-2023)
 - General Assembly 2022-06-08
     * [Protocol](documents/ga/2022-06-08/protocol.pdf)
     * [Slides](documents/ga/2022-06-08/slides.pdf)
