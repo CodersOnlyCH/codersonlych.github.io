@@ -9,27 +9,27 @@ weight = 10
 
 [[menus.main]]
 name = 'What We Do'
-pageRef = '/what-we-do'
+pageRef = '/what-we-do/'
 weight = 20
 
 [[menus.main]]
 name = 'Past Events'
-pageRef = '/posts'
+pageRef = '/posts/'
 weight = 30
 
 [[menus.main]]
 name = 'Association'
-pageRef = '/association'
+pageRef = '/association/'
 weight = 40
 
 [[menus.main]]
 name = 'Members'
-pageRef = '/members'
+pageRef = '/members/'
 weight = 50
 
 [[menus.main]]
 name = 'Sponsors'
-pageRef = '/sponsors'
+pageRef = '/sponsors/'
 weight = 60
 
 [module]
