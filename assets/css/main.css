@@ -13,6 +13,27 @@
 }
 
 @font-face {
+  font-family: 'pragmata';
+  src: url('/fonts/PragmataProB_liga_0830.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'pragmata';
+  src: url('/fonts/PragmataProI_liga_0830.woff2') format('woff2');
+  font-weight: normal;
+  font-style: italic
+}
+
+@font-face {
+  font-family: 'pragmata';
+  src: url('/fonts/PragmataProR_liga_0830.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
   font-family: 'siruca';
   src: url('/fonts/siruca1.2-webfont.eot');
   src: url('/fonts/siruca1.2-webfont.eot?#iefix') format('embedded-opentype'),
@@ -130,8 +151,9 @@ h2 {
 
 em {
   font-style: normal;
-  color: var(--color-80s-disco-2);
-  text-shadow: 0 0 12px var(--color-80s-disco-2);
+  font-weight: bold;
+  color: var(--color-fg-default);
+  text-shadow: 0 0 12px var(--color-fg-default);
 }
 
 li, p {
