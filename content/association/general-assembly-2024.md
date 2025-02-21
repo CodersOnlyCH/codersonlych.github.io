@@ -6,7 +6,7 @@ draft = false
 
 ## Präsentation
 
-{{< iframe "/gv/2024.html" >}}
+{{< iframe "../documents/ga/2024-09-05/slides.pdf" >}}
 
 ## Protokoll der Generalversammlung des Vereins CodersOnly am 5. September 2024
 
