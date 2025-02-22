@@ -1,0 +1,72 @@
+#!/bin/bash
+
+: <<EOC
+Nice having you here fellow coder! 🧑‍💻
+
+It's good you're double checking what you're running on your computer.
+As you'll notice, we have absolutely no bad intents and won't try to pwn you
+base.
+
+This script just asks you for you data and sends it to our association
+management system. Double check and if you dare, run it on you machine 😉
+
+EOC
+
+cat <<EOS
+
+🚀 Hey there, fellow software enthusiast!
+
+You're about to join a community that loves **clean code, cool tech, and good
+company**. Expect great people, **regular events**, and lots of inspiring
+conversations  about code, architecture, and whatever cool tech comes next.
+Here, you'll share ideas, and enjoy regular events where we tackle challenges,
+break things (on purpose), and build awesome stuff.
+
+It’s all about **fun, learning, and pushing our skills forward**.
+
+Enter your information to join
+
+EOS
+
+DEFAULT_PUBLIC="yes"
+
+read -p "Enter your first name: " first_name
+read -p "Enter your last name: " last_name
+read -p "Enter your email address: " email
+read -p "Enter your social media handles: (optional) " handles
+
+read -p "Do you want your membership to be shown on our website? (yes/no) [$DEFAULT_PUBLIC]: " public
+public=${public:-$DEFAULT_PUBLIC}
+
+if [[ "$public" == "yes" ]]; then
+    public_value="Ja"
+else
+    public_value=""
+fi
+
+FORM_URL="https://codersonly.clubdesk.com/home"
+
+HTTP_RESPONSE=$(curl -s -o /dev/null -w"%{http_code}" -X POST "$FORM_URL" \
+     -H "Content-Type: application/x-www-form-urlencoded" \
+     --data-urlencode "1000066=" \
+     --data-urlencode "1000066_col_024=1000066_val_024" \
+     --data-urlencode "1000066_col_1=$first_name" \
+     --data-urlencode "1000066_col_2=$last_name" \
+     --data-urlencode "1000066_col_3=$email" \
+     --data-urlencode "1000066_attr_1739953922200=$public_value" \
+     --data-urlencode "1000066_attr_1739953011633=$handles" \
+     --data-urlencode "079_col_023=")  # Honeypot field, should be left empty
+
+cat <<EOS
+
+Welcome aboard ${first_name}!
+
+A member of the board will contact you soon.
+
+If you don’t hear from us, reach out at 📧 contact@codersonly.org.
+(Something might have gone wrong with our association management system.)
+
+Coders Only ❤️ u
+
+EOS
+

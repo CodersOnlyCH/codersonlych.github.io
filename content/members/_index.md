@@ -39,5 +39,5 @@ draft = false
 
 If you want your name to be listed in here, consider becomming a member:
 ```shell
-$ sh <(curl -L https://codersonly.org/members/join)
+$ sh <(curl -L https://new.codersonly.org/members/join)
 ```
