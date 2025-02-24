@@ -15,11 +15,16 @@ So if you’re also passionate about code, you’ve come to the right place.
   {{< /box >}}
 
   {{< box title="Software Craft Study Group" >}}
-  Deepen your understanding of software craftsmanship through collaborative study, vivid discussions and hands-on exercises.
+  Deepen your understanding of software craftsmanship through collaborative
+  study, vivid discussions and hands-on exercises.
   {{< /box >}}
 
   {{< box title="Regular Meetups" >}}
-  A couple of times a year we meet up for workshops and talks on diverse topics.
+  We organize meetups where members and guests come together for workshops,
+  talks, and discussions. These events provide a great opportunity to learn,
+  share experiences, and connect. While we occasionally bring internationally
+  recognized speakers, our meetups are mostly driven by the expertise and
+  passion within our own community.
   {{< /box >}}
 
   {{< box title="Book Study Clubs" >}}
@@ -31,9 +36,15 @@ So if you’re also passionate about code, you’ve come to the right place.
   We meet to code together and enjoy the company of fellow coding people.
   {{< /box >}}
 
-  {{< box title="Yearly Events" >}}
-  Who hasn't heard of Global Day of Coderetreat and SoCraTes Day?
-  Well, guess who's organizing those events in Switzerland?
-  Yours truly!
+  {{< box title="Global Day of Coderetreat" >}}
+  GDCR is a globally coordinated event dedicated to deliberate pactice. No
+  pressure, no deadlines—just a day to experiment, collaborate, and grow
+  through focused, time-boxed exercises.
+  {{< /box >}}
+
+  {{< box title="SoCraTes Day" >}}
+  We are proud to be the oldest SoCraTes unconference in Switzerland! SoCraTes
+  Day is a self-organized unconference where enthusiasts come together to
+  discuss software craftsmanship, clean code, agile methodologies, and beyond.
   {{< /box >}}
 {{</grid>}}
