@@ -127,10 +127,22 @@ main img {
  height: auto;
 }
 
+.highlight {
+  overflow-x: auto;
+  max-width: 100%;
+  display: block;
+}
+
+.highlight pre {
+  white-space: pre;
+  overflow-x: auto;
+}
+
 code {
   font-family: 'pragmata-mono';
   text-shadow: 0 0 3px var(--color-fg-default);
   line-height: normal;
+  overflow-x: auto;
 }
 
 code span {
