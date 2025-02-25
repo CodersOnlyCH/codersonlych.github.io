@@ -149,6 +149,12 @@ code span {
   font-family: 'pragmata-mono';
 }
 
+code.language-shell .line::before {
+  content: "$ ";
+  color: var(--color-80s-disco-1);
+  text-shadow: 0 0 12px var(--color-80s-disco-1);
+}
+
 iframe {
   border: 1px solid var(--color-border-default);
   min-height: 400px;
