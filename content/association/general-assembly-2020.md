@@ -4,7 +4,7 @@ date = 2020-06-08T18:00:00-00:00
 draft = false
 +++
 
-## Protokoll der ausserordentlichen Generalversammlung des Vereins Coders Only am 8. Juni 2022
+## Protokoll der ausserordentlichen Generalversammlung des Vereins Coders Only am 8. Juni 2020
 
 Ort: Online
 Beginn: 17:30 Uhr
