@@ -54,16 +54,17 @@ So if you’re also passionate about code, you’ve come to the right place.
   {{< box title="Global Day of Coderetreat" >}}
   [GDCR](https://www.coderetreat.org/) is a globally coordinated event
   dedicated to deliberate pactice. No pressure, no deadlines—just a day to
-  experiment, collaborate, and grow through focused, time-boxed exercises. Sign
-  up to our mailing list to be informed when the tickets to the next GDCR are
-  available.
+  experiment, collaborate, and grow through focused, time-boxed exercises.
+  [Sign up to our mailing list](https://buttondown.email/CodersOnly) to be
+  informed when the tickets to the next GDCR are available.
   {{< /box >}}
 
   {{< box title="SoCraTes Day" >}}
-  We are proud to be the oldest SoCraTes unconference in Switzerland! SoCraTes
-  Day is a self-organized unconference where enthusiasts come together to
-  discuss software craftsmanship, clean code, agile methodologies, and beyond.
-  Sign up to our mailing list to be informed when the tickets to the next
-  SoCraTes Day are available.
+  We are proud to be the oldest SoCraTes unconference in Switzerland! [SoCraTes
+  Day](https://socrates-day.ch/) is a self-organized unconference where
+  enthusiasts come together to discuss software craftsmanship, clean code,
+  agile methodologies, and beyond. [Sign up to our mailing
+  list](https://buttondown.email/CodersOnly) to be informed when the tickets to
+  the next SoCraTes Day are available.
   {{< /box >}}
 {{</grid>}}
