@@ -41,6 +41,16 @@ Account Holder: Coders Only, 8000 Zürich
 - [Meetup](https://meetup.com/coders-only)
 {{< /box >}}
 
+{{< box title="Community Metrics" >}}
+Discord Members: 221  
+LinkedIn Followers: 140  
+Mailing List Subscribers: 322  
+Members: 66  
+Meetup Members: 2659  
+Sponsors: 6  
+Yearly Events: > 50  
+{{< /box >}}
+
 {{< box title="Documents" >}}
 - [Bylaws](bylaws)
 - [Founding Charter](founding-charter)

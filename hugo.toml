@@ -13,8 +13,8 @@ pageRef = '/what-we-do/'
 weight = 20
 
 [[menus.main]]
-name = 'Past Events'
-pageRef = '/posts/'
+name = 'Blog'
+pageRef = '/blog/'
 weight = 30
 
 [[menus.main]]
