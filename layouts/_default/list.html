@@ -1,8 +1,15 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
-  {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    <p>{{ .Summary | markdownify }}</p>
-  {{ end }}
+
+  <div class="grid">
+    {{ range .Pages }}
+      <div class="box">
+        <h2>{{ .LinkTitle }}</h2>
+	{{ .PublishDate | time.Format ":date_medium" }}
+        <p>{{ .Summary | markdownify }}</p>
+        <a href="{{ .RelPermalink }}">...read more</a>
+      </div>
+    {{ end }}
+  </div>
 {{ end }}
