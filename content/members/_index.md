@@ -84,6 +84,7 @@ Andreas Peter
 , Oliver Nautsch
 , Oliver Streuli
 , Pablo Vergés
+, Patrick Baumgartner
 , Patrick Scheller
 , Peter Gfader
 , Peter Koch
