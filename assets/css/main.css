@@ -225,3 +225,7 @@ li, p {
 .box h2 {
   margin-top: 0;
 }
+
+.box ul {
+  padding-inline-start: 1em;
+}

@@ -1,0 +1,20 @@
+{{- $file := .Get "file" | default "events.json" -}}
+{{- $eventsFile := resources.Get $file -}}
+{{- if not $eventsFile }}
+  Could not load upcomint events!
+{{- else }}
+  {{- $events := $eventsFile | transform.Unmarshal -}}
+  {{- if $events }}
+    <ul>
+      {{- range sort $events "DTSTART" "asc" }}
+        {{- $isoDate := dateFormat "2006-01-02T15:04:05Z07:00" .DTSTART }}
+        <li>
+          <a href="{{ .URL }}" target="_blank">{{ .SUMMARY }}</a>
+          <time datetime="{{ $isoDate }}">{{ dateFormat "January 2, 2006, 15:04" .DTSTART }}</time><br>
+        </li>
+      {{- end }}
+    </ul>
+  {{- else }}
+    <p>No upcoming events.</p>
+  {{- end }}
+{{- end }}

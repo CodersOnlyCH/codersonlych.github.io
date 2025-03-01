@@ -1,4 +1,8 @@
 <div class="box">
   <h2>{{ .Get "title" }}</h2>
-  <p>{{ .Inner | markdownify }}</p>
+  {{ if eq (.Get "markdown") "false" }}
+    {{ .Inner }}
+  {{ else }}
+    <p>{{ .Inner | markdownify }}</p>
+  {{ end }}
 </div>
