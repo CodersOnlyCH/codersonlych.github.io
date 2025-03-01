@@ -75,7 +75,7 @@ body {
   color: var(--color-fg-default);
   line-height: 1.5;
   margin: 1rem;
-  max-width: 768px;
+  max-width: 1200px;
 }
 
 header {
@@ -233,5 +233,6 @@ li, p {
 }
 
 .box ul {
-  padding-inline-start: 1em;
+  padding-inline-start: 0;
+  list-style: none;
 }
