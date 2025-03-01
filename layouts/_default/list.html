@@ -5,9 +5,11 @@
   <div class="grid">
     {{ range .Pages }}
       <div class="box">
-        <h2>{{ .LinkTitle }}</h2>
-	{{ .PublishDate | time.Format ":date_medium" }}
-        <p>{{ .Summary | markdownify }}</p>
+        <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+        <time datetime="{{ .PublishDate | time.Format "2006-01-02T15:04:05Z07:00" }}">
+          {{ .PublishDate | time.Format ":date_medium" }}
+        </time>
+        <p>{{ .Summary | safeHTML }}</p>
         <a href="{{ .RelPermalink }}">...read more</a>
       </div>
     {{ end }}

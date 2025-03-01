@@ -7,6 +7,8 @@ tags = ['meetup']
 
 Our Zürich community of developers was graced by the visit of Alistair Cockburn, co-author of the Agile Manifesto, one of the “42 Greatest Software Professionals of All Times.”
 
+<!--more-->
+
 ![Alistair Cockburn](https://codersonly.org/wp-content/uploads/2024/06/img_0936.jpeg)
 
 Alistair answered our questions with the constraint of having to answer them as #stories.

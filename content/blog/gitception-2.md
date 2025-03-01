@@ -7,6 +7,8 @@ tags = ['gitception', 'meetup']
 
 The first deep dive into Git using Gitception! We discussed the complex internal structure used by Git to manage versions and introduced concepts which help you improve your workflow. Who would have expected so many details behind so basic commands (git add and git commit)? Are you ready for the next session?
 
+<!--more-->
+
 ![gitception](https://codersonlyorg.wordpress.com/wp-content/uploads/2020/10/gits-information-model-blog.jpg)
 
 Here is Pablo having fun while using Gitception!

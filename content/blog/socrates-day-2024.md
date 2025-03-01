@@ -10,7 +10,7 @@ an international conference. It is an annually occurring unconference where
 developers, admins and testers meet up and spontaneously organize themselves
 into discussion groups.
 
-<!-- more -->
+<!--more-->
 
 ![SoCraTes Day
 Switzerland](https://codersonly.org/wp-content/uploads/2024/09/socratesday-after-post.png)

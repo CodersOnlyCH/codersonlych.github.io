@@ -7,6 +7,8 @@ tags = ['book study club']
 
 Sabine Winkler and Corinna Lange organized this Book Study, which took place between February and October 2023.
 
+<!--more-->
+
 ![domain driven design](https://codersonly.org/wp-content/uploads/2024/06/600_510191476.webp)
 
 Main eye-opener was the concept of bounded contexts.

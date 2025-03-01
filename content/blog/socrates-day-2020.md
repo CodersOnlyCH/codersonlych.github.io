@@ -7,4 +7,6 @@ tags = ['SoCraTes']
 
 This was an online event and we forgot to take a screenshot of the group call so the agenda is all you get… sorriez 🙂
 
+<!--more-->
+
 ![Agenda](https://codersonlyorg.wordpress.com/wp-content/uploads/2020/10/socrates-day-2020.jpg)

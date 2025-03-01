@@ -107,6 +107,11 @@ header nav .active {
   text-shadow: 0 0 12px var(--color-fg-default);
 }
 
+time {
+  color: var(--color-fg-default);
+  text-shadow: 0 0 12px var(--color-fg-default);
+}
+
 footer {
   border-top: 1px solid var(--color-fg-default);
   margin-top: 1rem;
@@ -166,7 +171,8 @@ pre {
   line-height: normal;
 }
 
-h2 {
+h2,
+h2 * {
   color: var(--color-80s-disco-1);
   text-shadow: 0 0 12px var(--color-80s-disco-1);
 }

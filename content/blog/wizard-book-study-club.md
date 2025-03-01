@@ -7,6 +7,8 @@ tags = ['book study club']
 
 Coders Only have started a study group whose purpose is to study the Wizard book.
 
+<!--more-->
+
 ![wizard book](https://codersonly.org/wp-content/uploads/2021/05/wizard-book-meetup.png)
 
 The Wizard Book, or Structure and Interpretation of Computer Programs, a.k.a SICP is the book that is used for teaching CS at Berkeley and Stanford Universities. It’s a challenging read, introducing many fundamental concepts, and not for the faint of heart. It’s one of these rare books where the reviews on Amazon are either 5 or one star. Love it or hate it.

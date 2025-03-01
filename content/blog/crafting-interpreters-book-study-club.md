@@ -11,7 +11,7 @@ Interpreters](https://craftinginterpreters.com/). Every two weeks, participants
 will gather online to discuss chapter by chapter, exploring the intricacies of
 building interpreters from the ground up.
 
-<!-- more -->
+<!--more-->
 
 ![crafting interpreters](https://codersonly.org/wp-content/uploads/2025/01/banner-crafting-interpreters.png)
 

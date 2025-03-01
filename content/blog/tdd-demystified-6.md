@@ -7,6 +7,8 @@ tags = ['tdd-demystified', 'meetup']
 
 This time we looked into the different between messy and clean fixtures, dealt with the various types of Test Doubles and recommended a few links to delve into. And with that we also shelved the TDD Demystified series for the time being, because we’ve more interesting topics in the pipeline.
 
+<!--more-->
+
 ![tdd demystified]()
 
 See you in our extended continuation series, soon.
