@@ -1,4 +1,4 @@
-<div class="box">
+<div class="box {{ .Get "class" }}">
   <h2>{{ .Get "title" }}</h2>
   {{ if eq (.Get "markdown") "false" }}
     {{ .Inner }}

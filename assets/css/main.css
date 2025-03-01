@@ -171,6 +171,7 @@ pre {
   line-height: normal;
 }
 
+main h1,
 h2,
 h2 * {
   color: var(--color-80s-disco-1);
@@ -226,6 +227,10 @@ li, p {
 .box {
   border: 1px solid var(--color-alien-hue-3);
   padding: 1em;
+}
+
+.box.wide {
+  grid-column: span 2;
 }
 
 .box h2 {

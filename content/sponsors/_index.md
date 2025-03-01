@@ -4,8 +4,6 @@ date = 2023-01-01T08:30:00-07:00
 draft = false
 +++
 
-## Support the Future of Software Craftsmanship in Switzerland
-
 At Coders Only, we are dedicated to fostering a thriving community of
 passionate software developers. We organize SoCraTes Day Switzerland, host
 monthly meetups, and facilitate the Global Day of Coderetreat—all with the goal

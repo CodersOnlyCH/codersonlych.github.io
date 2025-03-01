@@ -5,8 +5,6 @@ draft = false
 layout = 'no-list'
 +++
 
-## Join, Learn, Share, Enjoy.
-
 We are a community of software developers who find that even with decades of
 experience, there’s always room to learn, to grow, to get better at our craft.
 So if you’re also passionate about code, you’ve come to the right place.
@@ -69,7 +67,7 @@ So if you’re also passionate about code, you’ve come to the right place.
   the next SoCraTes Day are available.
   {{< /box >}}
 
-  {{< box title="Upcoming events" markdown="false" >}}
+  {{< box title="Upcoming events" markdown="false" class="wide" >}}
     {{< events file="events.json" >}}
   {{< /box >}}
 {{</grid>}}
