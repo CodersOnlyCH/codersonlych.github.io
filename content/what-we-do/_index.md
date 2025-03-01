@@ -68,4 +68,8 @@ So if you’re also passionate about code, you’ve come to the right place.
   list](https://buttondown.email/CodersOnly) to be informed when the tickets to
   the next SoCraTes Day are available.
   {{< /box >}}
+
+  {{< box title="Upcoming events" markdown="false" >}}
+    {{< events file="events.json" >}}
+  {{< /box >}}
 {{</grid>}}

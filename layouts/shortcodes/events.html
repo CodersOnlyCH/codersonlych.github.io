@@ -9,7 +9,7 @@
       {{- range sort $events "DTSTART" "asc" }}
         {{- $isoDate := dateFormat "2006-01-02T15:04:05Z07:00" .DTSTART }}
         <li>
-          <a href="{{ .URL }}" target="_blank">{{ .SUMMARY }}</a>
+          <a href="{{ .URL }}" target="_blank">{{ .SUMMARY }}</a><br>
           <time datetime="{{ $isoDate }}">{{ dateFormat "January 2, 2006, 15:04" .DTSTART }}</time><br>
         </li>
       {{- end }}
