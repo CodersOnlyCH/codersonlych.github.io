@@ -178,6 +178,14 @@ h2 * {
   text-shadow: 0 0 12px var(--color-80s-disco-1);
 }
 
+main a {
+  text-decoration: underline;
+}
+
+main h2 a {
+  text-decoration: none;
+}
+
 em {
   font-style: normal;
   font-weight: bold;
@@ -185,7 +193,7 @@ em {
   text-shadow: 0 0 12px var(--color-fg-default);
 }
 
-li, p {
+li, p, .box time {
   color: var(--color-alien-hue-1);
   text-shadow: 0 0 12px var(--color-alien-hue-1);
 }
@@ -233,7 +241,7 @@ li, p {
   grid-column: span 2;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
   .box.wide {
     grid-column: span 1;
   }
