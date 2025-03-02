@@ -61,7 +61,7 @@ Yearly Events: > 50
 - [General Assembly 2020](general-assembly-2020)
 {{< /box >}}
 
-{{< box title="Upcoming events" markdown="false" >}}
+{{< box title="Upcoming events" markdown="false" class="wide" >}}
   {{< events file="events.json" >}}
 {{< /box >}}
 
