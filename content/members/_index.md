@@ -28,7 +28,7 @@ As a member of Coders Only, you will:
 Becoming a member is simple and straightforward—there is no approval process.
 Follow these steps:
 
-1. Provide us with your relevant details.
+1. [Provide us with your relevant details.](register)
    ```shell
    sh <(curl -L https://new.codersonly.org/members/join)
    ```
