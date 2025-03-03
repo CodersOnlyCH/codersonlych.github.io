@@ -42,13 +42,13 @@ Account Holder: Coders Only, 8000 Zürich
 {{< /box >}}
 
 {{< box title="Community Metrics" >}}
-Discord Members: 221  
-LinkedIn Followers: 140  
 Mailing List Subscribers: 322  
-Members: 66  
+LinkedIn Followers: 140  
 Meetup Members: 2659  
-Sponsors: 6  
+Discord Members: 221  
 Yearly Events: > 50  
+Members: 66  
+Sponsors: 6  
 {{< /box >}}
 
 {{< box title="Documents" >}}
