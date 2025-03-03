@@ -306,3 +306,8 @@ li, p, .box time {
   padding-inline-start: 0;
   list-style: none;
 }
+
+.events {
+  list-style: none;
+  padding: 0;
+}

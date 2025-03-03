@@ -15,6 +15,10 @@ Our upcoming events you can find on Twitter and on Meetup.
 Please also add yourself to our Mailing List.
 Most importantly though, come around to one of our Coders Monthly sessions!
 
+## Upcoming Events
+
+{{<events>}}
+
 ## Our Amazing Sponsors
 
 {{<sponsors>}}
