@@ -245,11 +245,18 @@ li, p, .box time {
 .sponsor-grid {
   background: white;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(6, 1fr);
   gap: 20px;
   justify-items: center;
   align-items: center;
   padding: 1em;
+}
+
+@media (max-width: 768px) {
+  .sponsor-grid {
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: minmax(100px, auto);
+  }
 }
 
 .sponsor-grid img {
