@@ -5,12 +5,12 @@
 {{- else }}
   {{- $events := $eventsFile | transform.Unmarshal -}}
   {{- if $events }}
-    <ul>
+    <ul class="events">
       {{- range sort $events "DTSTART" "asc" }}
         {{- $isoDate := dateFormat "2006-01-02T15:04:05Z07:00" .DTSTART }}
         <li>
-          <time datetime="{{ $isoDate }}">{{ dateFormat "Jan 2, 15:04" .DTSTART }}</time> -
-          <a href="{{ .URL }}" target="_blank" title="{{ .DESCRIPTION }}">{{ .SUMMARY }}</a>
+          <a href="{{ .URL }}" target="_blank" title="{{ .DESCRIPTION }}">{{ .SUMMARY }}</a> on 
+          <time datetime="{{ $isoDate }}">{{ dateFormat "Jan 2, 15:00" .DTSTART }}</time>
         </li>
       {{- end }}
     </ul>
