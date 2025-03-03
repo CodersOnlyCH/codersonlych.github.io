@@ -67,7 +67,7 @@ So if you’re also passionate about code, you’ve come to the right place.
   the next SoCraTes Day are available.
   {{< /box >}}
 
-  {{< box title="Upcoming events" markdown="false" class="wide" >}}
+  {{< box title="Upcoming Events" markdown="false" class="wide" >}}
     {{< events file="events.json" >}}
   {{< /box >}}
 {{</grid>}}
