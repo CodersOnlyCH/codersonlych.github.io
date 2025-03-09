@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/urs/bin/env bash
 
 : <<EOC
 Nice having you here fellow coder! 🧑‍💻
