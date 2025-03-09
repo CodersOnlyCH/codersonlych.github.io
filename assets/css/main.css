@@ -311,3 +311,20 @@ li, p, .box time {
   list-style: none;
   padding: 0;
 }
+
+.members {
+  padding: 0;
+}
+
+.members li {
+  display: inline;
+}
+
+.members li::before {
+  content: "•";
+  margin: 0 0.1em;
+}
+
+.members li:first-child::before {
+  content: none;
+}

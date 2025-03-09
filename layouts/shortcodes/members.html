@@ -1,0 +1,18 @@
+{{- $file := .Get "file" | default "members.json" -}}
+{{- $membersFile := resources.Get $file -}}
+{{- if not $membersFile }}
+  <p>Could not load member's file</p>
+{{- else }}
+  {{- $members := $membersFile | transform.Unmarshal -}}
+  {{- if $members }}
+    <ul class="members">
+      {{- range sort $members "first" "asc" }}
+        <li>
+          {{ .first }} {{.last}}
+        </li>
+      {{- end }}
+    </ul>
+  {{- else }}
+    <p>Could not load member's list</p>
+  {{- end }}
+{{- end }}

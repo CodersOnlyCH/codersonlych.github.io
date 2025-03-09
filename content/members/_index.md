@@ -62,37 +62,5 @@ contribute by engaging in discussions, attending events, or simply being part
 of our network, your presence matters. Thank you for being a vital part of
 Coders Only!
 
-Andreas Peter
-, Andrew Magerman
-, Christoph Dunkake
-, Corinna Lange
-, Daniel Koller
-, Fabian Egli
-, Gabor Lenard
-, Gioele Moretti
-, Girolamo Marroccoli
-, Guillermo Indalecio
-, Géza Mihala
-, Jonathan Crosby
-, Manuel Müller
-, Marco Ravicini
-, Marcus Fihlon
-, Marius Colacioiu
-, Matthias Osswald
-, Max von Steiger
-, Oleg Nenashev
-, Oliver Nautsch
-, Oliver Streuli
-, Pablo Vergés
-, Patrick Baumgartner
-, Patrick Scheller
-, Peter Gfader
-, Peter Koch
-, Raphael Meyer
-, Sebastian Gfeller
-, Stephan Classen
-, Tim Bittins
-, Vasily Tolkachev
-, Viktor Reinok
-, Wolfram Willuhn
+{{< members file="members.json" >}}
 
