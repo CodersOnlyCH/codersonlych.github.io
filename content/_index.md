@@ -9,8 +9,8 @@ layout = 'home'
 
 We’re a vibrant community of software developers who believe that no matter how
 many years of experience you have, **there’s always something new to learn,
-explore, and master**. If you’re passionate about code and in Zurich, **you’ve
-just found your people**.
+explore, and master**. If you’re passionate about code and in the greater area
+of Zürich or Bern, **you’ve just found your people**.
 
 We’re more than just a community—we’re a [registered association](association)
 dedicated to fostering collaboration, growth, and technical excellence. **Join
