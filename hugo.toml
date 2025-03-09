@@ -18,24 +18,19 @@ pageRef = '/blog/'
 weight = 30
 
 [[menus.main]]
-name = 'Newsletter'
-pageRef = '/newsletter/'
-weight = 40
-
-[[menus.main]]
 name = 'Association'
 pageRef = '/association/'
-weight = 50
+weight = 40
 
 [[menus.main]]
 name = 'Members'
 pageRef = '/members/'
-weight = 60
+weight = 50
 
 [[menus.main]]
 name = 'Sponsors'
 pageRef = '/sponsors/'
-weight = 70
+weight = 60
 
 [module]
   [module.hugoVersion]
