@@ -7,18 +7,32 @@ layout = 'home'
 
 # Hello There!
 
-We are a community of software developers who find that even with decades of experience, there’s always room to learn, to grow, to get better at our craft.
-So if you’re also passionate about code and are in Zurich, you’ve come to the right place.
+We’re a vibrant community of software developers who believe that no matter how
+many years of experience you have, **there’s always something new to learn,
+explore, and master**. If you’re passionate about code and in Zurich, **you’ve
+just found your people**.
 
-We are a registered association in Zurich – join or support us!
-Our upcoming events you can find on Twitter and on Meetup.
-Please also add yourself to our Mailing List.
-Most importantly though, come around to one of our Coders Monthly sessions!
+We’re more than just a community—we’re a [registered association](association)
+dedicated to fostering collaboration, growth, and technical excellence. **Join
+us, support us, or just come hang out!**
 
 ## Upcoming Events
+
+We put a lot of heart into building a strong developer community—whether it's
+through hands-on workshops, deep technical discussions, or casual meetups.
+Check out [what we do](what-we-do), and in the meantime, here’s what’s coming
+up next!
 
 {{<events>}}
 
 ## Our Amazing Sponsors
 
+We’re lucky to have incredible sponsors who believe in our mission and help
+make our events possible. Their support fuels community-driven learning,
+knowledge-sharing, and unforgettable meetups.
+
 {{<sponsors>}}
+
+If your company shares our passion for crafting better software, consider
+[becoming a sponsor](sponsors) and help us shape the future of tech together!
+

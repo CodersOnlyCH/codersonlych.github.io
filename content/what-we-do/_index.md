@@ -5,9 +5,12 @@ draft = false
 layout = 'no-list'
 +++
 
-We are a community of software developers who find that even with decades of
-experience, there’s always room to learn, to grow, to get better at our craft.
-So if you’re also passionate about code, you’ve come to the right place.
+Great things happen when developers come together. Our events are a space to
+exchange ideas, tackle challenges, and push boundaries—together. Whether it's
+through deep technical discussions, hands-on workshops, or casual meetups, we
+create opportunities for learning, collaboration, and growth.
+
+Here’s how and where we make it happen.
 
 {{< grid >}}
   {{< box title="Coders Monthly" >}}

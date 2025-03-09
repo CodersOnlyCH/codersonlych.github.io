@@ -6,13 +6,17 @@ aliases = ['/verein']
 layout = 'no-list'
 +++
 
-This section covers the legal part of the association.
+Coders Only is a **registered non-profit association** dedicated to advancing
+software development knowledge and fostering a strong, collaborative tech
+community in Switzerland. As an official organization, **we operate
+transparently**, with clearly defined bylaws, governance structures, and
+financial accountability.
+
+In this section, you’ll find everything related to the formal side of Coders
+Only—including our mission, board members, financial details, official
+documents, and community metrics.
 
 {{< grid >}}
-{{< box title="About" >}}
-The "Coders Only" association is dedicated to promoting the theory and application of software development concepts, methods, and related topics in Switzerland.
-{{< /box >}}
-
 {{< box title="Address" >}}
 Coders Only  
 codersonly.org/verein  
@@ -59,6 +63,12 @@ Sponsors: 6
 - [General Assembly 2023](general-assembly-2023)
 - [General Assembly 2022](general-assembly-2022)
 - [General Assembly 2020](general-assembly-2020)
+{{< /box >}}
+
+{{< box title="Mission" >}}
+The "Coders Only" association is dedicated to promoting the theory and
+application of software development concepts, methods, and related topics in
+Switzerland.
 {{< /box >}}
 
 {{< box title="Upcoming Events" markdown="false" class="wide" >}}
