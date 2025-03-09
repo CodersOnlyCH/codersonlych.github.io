@@ -16,7 +16,7 @@ As a member of Coders Only, you will:
 - Build a stronger connection with the organizers and the community.
 - Gain more relatability and visibility among fellow members.
 - Have the option to publicly showcase your commitment by featuring your name
-  on our website and your status displayed on our Discord server.
+  on our website and your status displayed on our [Discord server](https://discord.gg/jWUZsKQvrz).
 - Receive occasional goodies and swag from the association.
 - Get early access to important event announcements before they are publicly
   available.
@@ -48,7 +48,7 @@ to you.
 
 ## Engagement and Involvement
 
-- Connect with other members on our Discord server and through our newsletter
+- Connect with other members on our [Discord server](https://discord.gg/jWUZsKQvrz) and through our newsletter
   (both publicly available).
 - Take on leadership or volunteer opportunities by organizing or hosting
   events.
