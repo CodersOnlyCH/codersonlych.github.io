@@ -1,7 +1,20 @@
-<div class="sponsor-grid">
-  {{ range (readDir "static/sponsors") }}
-    {{ if findRE "\\.(webp|png|jpg|jpeg|svg)$" .Name }}
-      <img src="/sponsors/{{ .Name }}" alt="{{ .Name | replaceRE "\\..*$" "" }}">
-    {{ end }}
-  {{ end }}
-</div>
+{{- $file := .Get "file" | default "sponsors.json" -}}
+{{- $sponsorsFile := resources.Get $file -}}
+{{- if not $sponsorsFile }}
+  <p>Could not load sponsors' file</p>
+{{- else }}
+  {{- $sponsors := $sponsorsFile | transform.Unmarshal -}}
+  {{- if $sponsors }}
+    <ul class="sponsors">
+      {{- range sort $sponsors "name" "asc" }}
+        <li>
+	  <a href="{{ .url }}" title="{{ .name }}">
+          <img src="{{ .logo }}" alt="{{ .name }}" title=" {{ .name }} "/>
+	  </a>
+        </li>
+      {{- end }}
+    </ul>
+  {{- else }}
+    <p>Could not load sponsors' list</p>
+  {{- end }}
+{{- end }}

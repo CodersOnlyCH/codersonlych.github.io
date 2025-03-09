@@ -1,7 +1,0 @@
-<div class="sponsor-grid">
-  {{ range (readDir "static/sponsors") }}
-    {{ if findRE "\\.(webp|png|jpg|jpeg|svg)$" .Name }}
-      <img src="/sponsors/{{ .Name }}" alt="{{ .Name | replaceRE "\\..*$" "" }}">
-    {{ end }}
-  {{ end }}
-</div>
