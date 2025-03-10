@@ -6,9 +6,9 @@
   {{- $members := $membersFile | transform.Unmarshal -}}
   {{- if $members }}
     <ul class="members">
-      {{- range sort $members "first" "asc" }}
+      {{- range sort $members "Vorname" "asc" }}
         <li>
-          {{ .first }} {{.last}}
+          <span title="Joined: {{ .Eintritt }}">{{ .Vorname }} {{ .Nachname }}</span>
         </li>
       {{- end }}
     </ul>
