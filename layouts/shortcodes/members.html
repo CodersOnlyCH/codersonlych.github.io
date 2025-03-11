@@ -8,7 +8,13 @@
     <ul class="members">
       {{- range sort $members "Vorname" "asc" }}
         <li>
-          <span title="Joined: {{ .Eintritt }}">{{ .Vorname }} {{ .Nachname }}</span>
+          <span title="Joined: {{ .Eintritt }}">
+	    {{- if .Public }}
+	    {{ .Vorname }} {{ .Nachname }}
+	    {{- else }}
+	    {{ .Vorname | truncate 1 "." }} {{ .Nachname | truncate 1 "."}}
+	    {{- end }}
+	  </span>
         </li>
       {{- end }}
     </ul>
