@@ -9,6 +9,6 @@ Our amazing Pablo preparing to blow all our minds with the amazing insights into
 
 <!--more-->
 
-![gitception](https://codersonlyorg.wordpress.com/wp-content/uploads/2020/10/2020-gitception-1.jpg)
+![gitception](../media/gitception-1.webp)
 
 And again, online, and again, no screenshot, sorry, we’ll pay more attention in the future.

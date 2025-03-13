@@ -1,6 +1,6 @@
 +++
 title = 'TDD Demystified (Episode 1)'
-date = 2020-11-19T10:00:00-07:00
+date = 2020-11-09T10:00:00-07:00
 draft = false
 tags = ['tdd-demystified', 'meetup']
 +++
@@ -9,4 +9,5 @@ Our first session into all things testing, with a focus on TDD, brought vivid di
 
 <!--more-->
 
+![tdd demystified](../media/tdd-demystified-1.webp)
 

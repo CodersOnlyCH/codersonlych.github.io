@@ -9,6 +9,6 @@ In this session of the Git series we explored git cherry-pick and git rebase alo
 
 <!--more-->
 
-![gitception](https://codersonlyorg.wordpress.com/wp-content/uploads/2021/04/2021-03-31-gitception.jpg)
+![gitception](../media/gitception-4.webp)
 
 Join us the next time!

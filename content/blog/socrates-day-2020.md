@@ -9,4 +9,4 @@ This was an online event and we forgot to take a screenshot of the group call so
 
 <!--more-->
 
-![Agenda](https://codersonlyorg.wordpress.com/wp-content/uploads/2020/10/socrates-day-2020.jpg)
+![SoCraTes Day 2020](../media/socrates-day-2020.webp)

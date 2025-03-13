@@ -9,6 +9,8 @@ So after watching @infinitary complete the Price Engine Kata of Cinema Paradiso 
 
 <!--more-->
 
+![tdd demystified](../media/tdd-demystified-4.webp)
+
 And a bit of a new terrain it turned out to be, especially due to the surprising fact that out of about twenty hardcore hackers on the call NONE were proficient in JavaScript/TypeScript. But thanks to Oliver‘s patient guidance we had good learnings.
 
 And based on the feedback we shall continue but with improved preparations. See you!

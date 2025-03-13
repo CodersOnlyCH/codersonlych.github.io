@@ -9,7 +9,7 @@ Yay! Second deep dive into Git using Gitception! We discovered the magic behind 
 
 <!--more-->
 
-![gitception](https://codersonlyorg.wordpress.com/wp-content/uploads/2020/11/branching-and-merging-1-post.jpg)
+![gitception](../media/gitception-3.webp)
 
 What a delightful group of people! Enjoyed the meetup a lot!
 

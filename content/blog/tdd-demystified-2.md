@@ -1,6 +1,6 @@
 +++
 title = 'TDD Demystified (Episode 2)'
-date = 2020-11-09T10:00:00-07:00
+date = 2020-11-19T10:00:00-07:00
 draft = false
 tags = ['tdd-demystified', 'meetup']
 +++
@@ -9,5 +9,5 @@ So in the second session we took TDD Back to Basics and after watching and discu
 
 <!--more-->
 
-![tdd demystified](https://codersonlyorg.wordpress.com/wp-content/uploads/2020/10/2020-gitception-1.jpg)
+![tdd demystified](../media/tdd-demystified-2.webp)
 

@@ -9,7 +9,7 @@ The first deep dive into Git using Gitception! We discussed the complex internal
 
 <!--more-->
 
-![gitception](https://codersonlyorg.wordpress.com/wp-content/uploads/2020/10/gits-information-model-blog.jpg)
+![gitception](../media/gitception-2.webp)
 
 Here is Pablo having fun while using Gitception!
 

@@ -12,8 +12,7 @@ into discussion groups.
 
 <!--more-->
 
-![SoCraTes Day
-Switzerland](https://codersonlyorg.wordpress.com/wp-content/uploads/2024/09/socratesday-after-post.png)
+![SoCraTes Day 2024](../media/socrates-day-2024.webp)
 
 We spent the whole day discussing and debating – it is always a surprise how
 wide the discussions go. It’s also a safe environment in which to discover new
