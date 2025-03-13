@@ -9,6 +9,6 @@ Sabine Winkler and Corinna Lange organized this Book Study, which took place bet
 
 <!--more-->
 
-![domain driven design](https://codersonly.org/wp-content/uploads/2024/06/600_510191476.webp)
+![domain driven design](https://codersonlyorg.wordpress.com/wp-content/uploads/2024/06/600_510191476.webp)
 
 Main eye-opener was the concept of bounded contexts.

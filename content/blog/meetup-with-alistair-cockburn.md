@@ -9,7 +9,7 @@ Our Zürich community of developers was graced by the visit of Alistair Cockburn
 
 <!--more-->
 
-![Alistair Cockburn](https://codersonly.org/wp-content/uploads/2024/06/img_0936.jpeg)
+![Alistair Cockburn](https://codersonlyorg.wordpress.com/wp-content/uploads/2024/06/img_0936.jpeg)
 
 Alistair answered our questions with the constraint of having to answer them as #stories.
 

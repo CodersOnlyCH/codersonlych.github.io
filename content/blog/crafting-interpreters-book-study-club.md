@@ -13,7 +13,7 @@ building interpreters from the ground up.
 
 <!--more-->
 
-![crafting interpreters](https://codersonly.org/wp-content/uploads/2025/01/banner-crafting-interpreters.png)
+![crafting interpreters](https://codersonlyorg.wordpress.com/wp-content/uploads/2025/01/banner-crafting-interpreters.png)
 
 The group is full of cool and motivated people, eager to dissect the book,
 exchange ideas, and deepen their understanding of language implementation. To

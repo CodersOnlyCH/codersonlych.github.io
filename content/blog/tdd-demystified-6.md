@@ -9,6 +9,4 @@ This time we looked into the different between messy and clean fixtures, dealt w
 
 <!--more-->
 
-![tdd demystified]()
-
 See you in our extended continuation series, soon.

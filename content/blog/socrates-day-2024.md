@@ -13,7 +13,7 @@ into discussion groups.
 <!--more-->
 
 ![SoCraTes Day
-Switzerland](https://codersonly.org/wp-content/uploads/2024/09/socratesday-after-post.png)
+Switzerland](https://codersonlyorg.wordpress.com/wp-content/uploads/2024/09/socratesday-after-post.png)
 
 We spent the whole day discussing and debating – it is always a surprise how
 wide the discussions go. It’s also a safe environment in which to discover new
