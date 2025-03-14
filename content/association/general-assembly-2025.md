@@ -6,7 +6,7 @@ draft = false
 
 ## Präsentation
 
-{{< iframe "/gv/2025.html" >}}
+{{< iframe "https://slides.codersonly.org/gv/2025.html" >}}
 
 ## Protokoll der Generalversammlung des Vereins Coders Only am 21. Januar 2025
 
