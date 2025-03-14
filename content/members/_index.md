@@ -30,7 +30,7 @@ Follow these steps:
 
 1. [Provide us with your relevant details.](register)
    ```shell
-   sh <(curl -L https://new.codersonly.org/members/join)
+   sh <(curl -L https://codersonly.org/members/join)
    ```
 2. We add you to our list of members.
 3. You receive a welcome message along with an invoice for the membership fees.
