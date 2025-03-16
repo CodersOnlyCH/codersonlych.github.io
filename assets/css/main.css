@@ -262,7 +262,44 @@ li, p, .box time {
 .sponsors li {
   width: 100%;
   height: auto;
-  object-fit: contain;
+  position: relative;
+}
+
+.sponsors a {
+  display: block;
+  height: 100%;
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-indent: -9999px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.sponsors .bbv {
+  background-image: url('/sponsors/dark/bbv.webp');
+}
+
+.sponsors .bring {
+  background-image: url('/sponsors/dark/bring.webp');
+}
+
+.sponsors .ergon {
+  background-image: url('/sponsors/dark/ergon.webp');
+}
+
+.sponsors .finnova {
+  background-image: url('/sponsors/dark/finnova.webp');
+}
+
+.sponsors .house-of-test {
+  background-image: url('/sponsors/dark/house-of-test.webp');
+}
+
+.sponsors .megazord {
+  background-image: url('/sponsors/dark/megazord.webp');
 }
 
 .tags ul {

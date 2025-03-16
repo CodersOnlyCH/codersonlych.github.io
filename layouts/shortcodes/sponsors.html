@@ -8,9 +8,7 @@
     <ul class="sponsors">
       {{- range sort $sponsors "name" "asc" }}
         <li>
-	  <a href="{{ .url }}" title="{{ .name }}">
-          <img src="{{ .logo }}" alt="{{ .name }}" title=" {{ .name }} "/>
-	  </a>
+	  <a href="{{ .url }}" title="{{ .name }}" class="{{ .class }}" aria-label="{{ .name }}">{{ .name }}</a>
         </li>
       {{- end }}
     </ul>

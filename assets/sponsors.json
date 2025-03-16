@@ -1,8 +1,8 @@
 [
-  {"name": "bbv Software Services", "logo": "/sponsors/dark/bbv.webp", "url": "https://bbv.ch/"},
-  {"name": "Bring! Labs AG", "logo": "/sponsors/dark/bring.webp", "url": "https://www.getbring.com/"},
-  {"name": "ergon Informatik AG", "logo": "/sponsors/dark/ergon.webp", "url": "https://ergon.ch/"},
-  {"name": "finnova AG", "logo": "/sponsors/dark/finnova.webp", "url": "https://finnova.com/"},
-  {"name": "House of Test", "logo": "/sponsors/dark/house-of-test.webp", "url": "https://houseoftest.ch/"},
-  {"name": "megazord.studio", "logo": "/sponsors/dark/megazord.webp", "url": "https://megazord.studio/"}
+  {"name": "bbv Software Services", "class": "bbv", "logo": "/sponsors/dark/bbv.webp", "url": "https://bbv.ch/"},
+  {"name": "Bring! Labs AG", "class": "bring", "logo": "/sponsors/dark/bring.webp", "url": "https://www.getbring.com/"},
+  {"name": "ergon Informatik AG", "class": "ergon", "logo": "/sponsors/dark/ergon.webp", "url": "https://ergon.ch/"},
+  {"name": "finnova AG", "class": "finnova", "logo": "/sponsors/dark/finnova.webp", "url": "https://finnova.com/"},
+  {"name": "House of Test", "class": "house-of-test", "logo": "/sponsors/dark/house-of-test.webp", "url": "https://houseoftest.ch/"},
+  {"name": "megazord.studio", "class": "megazord", "logo": "/sponsors/dark/megazord.webp", "url": "https://megazord.studio/"}
 ]
