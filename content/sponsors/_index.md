@@ -18,9 +18,13 @@ learning and improvement. As a sponsor, you will:
 
 - *Support the growth of Swiss software craftsmanship*: Your contribution helps ensure inclusive, high-quality events that inspire and educate developers.
 - *Be featured on our website*: Your company logo will appear on codersonly.org with a link to your homepage.
-- *Gain exposure at our events*: Your logo will be presented at the beginning of each event.
+- *Boost team visibility*: Your team members get the "Sponsor" role on Discord, giving them extra visibility in the community and subtly strengthening your employer brand.
+- *Gain exposure at our events*: Your logo will be presented at the beginning of each event, including workshops, talks and full-day gatherings.
 - *Be included in our event promotions*: We will include a link to your homepage in event invitations sent to our community.
-- *Be introduced to our members*: New sponsors receive a dedicated introduction via email and/or social media.
+- *Support for your employer branding*: Show your support for the local tech scene and get noticed by engineers who care about quality, learning, and craft.
+- *Simplicity and transparency*: A clear annual sponsorship of CHF 1’000.- (excl. VAT) gives you all the benefits—no tiers, no upsells.
+- *Easy onboarding*: You just send us your logo, a link to your website, and a contact person—we’ll handle the rest.
+- *Flexible commitment*: Sponsorship runs indefinitely but can be cancelled every year with one month’s notice.
 
 ## Join Us in Shaping the Future
 
@@ -38,4 +42,3 @@ We look forward to partnering with you!
 A big thank you to our amazing sponsors who make our events possible:
 
 {{<sponsors>}}
-
