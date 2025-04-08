@@ -40,3 +40,7 @@ weight = 60
 [markup]
   [markup.highlight]
     noClasses = false
+
+[params]
+cssNakedDay = true
+
