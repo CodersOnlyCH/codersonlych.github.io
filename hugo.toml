@@ -42,5 +42,5 @@ weight = 60
     noClasses = false
 
 [params]
-cssNakedDay = true
+cssNakedDay = false
 
