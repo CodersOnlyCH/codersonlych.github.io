@@ -32,6 +32,11 @@ name = 'Sponsors'
 pageRef = '/sponsors/'
 weight = 60
 
+[[menus.main]]
+name = 'Code of Conduct'
+pageRef = '/code-of-conduct/'
+weight = 70
+
 [module]
   [module.hugoVersion]
     extended = false
