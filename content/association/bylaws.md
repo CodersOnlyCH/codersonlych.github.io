@@ -91,10 +91,12 @@ Dezember an die auf der Homepage publizierte Vereinsadresse gerichtet werden,
 wobei der laufende Jahresbeitrag vollständig geschuldet bleibt.
 
 Ein Mitglied kann jederzeit ohne Grundangabe aus dem Verein ausgeschlossen
-werden. Der Vorstand fällt den Ausschlussentscheid; das Mitglied kann den
-Ausschlussentscheid an die Generalversammlung weiterziehen. Die
-Generalversammlung entscheidet mit einfachem Mehr der anwesenden Mitglieder
-über den Ausschluss.
+werden. Der Vorstand fällt den Ausschlussentscheid. Ausschlüsse, die auf
+Grundlage eines Verstosses gegen den Code of Conduct erfolgen, sollen
+transparent, fair und unter Wahrung der Verhältnismässigkeit geschehen.
+Betroffene Mitglieder haben das Recht, den Ausschlussentscheid an die
+Generalversammlung weiterzuziehen. Die Generalversammlung entscheidet mit
+einfachem Mehr der anwesenden Mitglieder über den Ausschluss.
 
 ### 12. Organe
 
@@ -170,6 +172,10 @@ Vorstandsmitglieder anwesend sind. Er fasst seine Beschlüsse mit einfachem Mehr
 der anwesenden Mitglieder. Bei Stimmengleichheit kommt dem Präsidenten der
 Stichentscheid zu.
 
+Der Vorstand hat die Obhut über den Code of Conduct. Er ist zuständig für
+dessen Pflege, Auslegung und Anwendung sowie für die Unterstützung bei
+Konfliktfällen gemäss den darin beschriebenen Grundsätzen.
+
 Die Mitglieder des Vorstandes werden für eine Amtsdauer von einem Jahr gewählt.
 
 ### 16. Revision
@@ -208,3 +214,16 @@ welche den gleichen oder einen ähnlichen Zweck verfolgt.
 
 Diese Statuten sind an der Gründungsversammlung vom 16. Dezember 2019
 angenommen worden und sind mit diesem Datum in Kraft getreten.
+
+### 21. Regelwerke und Ordnungen
+
+Zur Erfüllung des Vereinszwecks kann der Verein ergänzende Regelwerke und
+Ordnungen erlassen. Dazu zählt insbesondere der Code of Conduct, welcher die
+Werte, das Verhalten und den Umgang innerhalb des Vereins konkretisiert.
+
+Der Vorstand ist zuständig für die Ausarbeitung, Pflege und Auslegung solcher
+Ordnungen. Änderungen dieser Ordnungen werden von der Generalversammlung mit
+einfachem Mehr der anwesenden Mitglieder bestätigt oder abgelehnt.
+
+Die Regelwerke sind für alle Mitglieder verbindlich, sobald sie von der
+Generalversammlung angenommen oder bestätigt wurden.
