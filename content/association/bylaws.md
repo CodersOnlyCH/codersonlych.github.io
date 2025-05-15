@@ -14,10 +14,10 @@ mit Sitz in Zürich.
 ### 2. Zweck
 
 Der Verein bezweckt, Theorie und Anwendung von Software-Development-Konzepten,
--Methoden und verwandte Themen in der Schweiz zu fördern.  Er dient als
+-Methoden und verwandte Themen in der Schweiz zu fördern. Er dient als
 Informationsdrehscheibe, unterstützt den Erfahrungsaustausch unter ihren
 Mitgliedern und unterstützt die Kooperation von Firmen und akademischen
-Instituten.  Wissenschaftliche Erkenntnisse sowie Erfahrungen aus der Praxis
+Instituten. Wissenschaftliche Erkenntnisse sowie Erfahrungen aus der Praxis
 sollen den Mitgliedern leichter zugänglich gemacht und Erfahrungen bei der
 Anwendung neuer Methoden und Hilfsmittel weitergegeben werden.
 
@@ -27,68 +27,59 @@ Diese richten sich nach dem Bedarf der Mitglieder.
 Der Verein hat keinen kommerziellen Zweck und ist politisch und konfessionell
 neutral.
 
-### 3. Mittel
+### 3. Migliedschaft
 
-Die Mittel des Vereins setzen sich aus Mitgliederbeiträgen und
-Sponsoringbeiträgen zusammen.  Die Höhe der Einzel- und
-Kollektivmitgliederbeiträge wird jährlich von der Mitgliederversammlung
-festgelegt.  Die Höhe der Studentenmitgliederbeiträge und der
-Sponsormitgliederbeiträge wird durch den Vorstand festgelegt.
-
-### 4. Mitglieder
+#### 3.1 Mitgliedschaftsformen
 
 Mitglieder sind natürliche und juristische Person, die ein Interesse am
-Vereinszweck haben.
+Vereinszweck haben. Diese können in den folgenden Formen auftreten.
 
-### 5. Einzelmitglieder
+#### 3.1.1 Einzelmitglieder
 
 Einzelmitglieder sind natürliche Personen In Ausbildung befindliche Personen
 werden auf Antrag und gegen Vorweisung einer Legitimation als
 Studentenmitglieder aufgenommen. Einzelmitglieder können per Beschluss der
 Mitgliederversammlung zu Ehrenmitgliedern ernannt werden.
 
-### 6. Kollektivmitglieder
+#### 3.1.2 Kollektivmitglieder
 
 Kollektivmitglieder sind juristische Personen. Das Kollektivmitglied benennt
 eine Kontaktperson, an welche die an alle Mitglieder gerichtete Korrespondenz
 in einfacher Ausfertigung gesandt wird. Ein Kollektivmitglied hat das gleiche
 Stimmengewicht wie ein Einzelmitglied.
 
-### 7. Sponsormitglieder
+#### 3.1.3 Sponsormitglieder
 
 Sponsormitglieder sind Kollektivmitglieder, welchen zusätzlich das nicht
 exklusive Recht eingerumt wird, das Attribut "Sponsormitglied" zu Werbezwecken
 einzusetzen.
 
-### 8. Leistungen
+### 3.2 Rechte und Pflichten
 
-Der Vorstand legt die an die Mitglieder gewährten Leistungen fest.
+Mitglieder haben das Stimm- und Wahlrecht an der Generalversammlung. Sie sind
+verpflichtet, die Ziele des Vereins zu unterstützen und aktiv am Vereinsleben
+teilzunehmen.
 
-### 9. Allgemeines
+### 3.3 Mitgliedschaftsantrag
 
 Aufnahmegesuche sind an die auf der Homepage publizierte Vereinsadresse zu
 richten; über die Aufnahme entscheidet der Vorstand.
 
-Die Rechte der Mitglieder bestehen im Stimm- und Wahlrecht bei Abstimmungen.
-
-Die Mitglieder sind gehalten, aktiv am Vereinsleben teilzunehmen und die Ziele
-des Vereins zu unterstützen.
-
-Mitglieder, die nach zweimaliger Mahnung ihren Jahresbeitrag nicht bezahlen,
-werden aus dem Verein ausgeschlossen.
-
-### 10. Erlöschen der Mitgliedschaft
+### 3.4 Erlöschung der Migliedschaft
 
 Die Mitgliedschaft erlischt:
+
 1. bei natürlichen Personen durch Austritt, Ausschluss oder Tod
 2. bei juristischen Personen durch Austritt, Ausschluss oder Auflösung
 
-### 11. Austritt und Ausschluss
+#### 3.4.1 Austritt
 
-Ein Vereinsaustritt ist per Ende des laufenden Geschäftsjahres möglich. Das
+Ein Austritt ist per Ende des laufenden Geschäftsjahres möglich. Das
 Austrittsschreiben muss schriftlich in Briefform oder per E-Mail bis zum 31.
 Dezember an die auf der Homepage publizierte Vereinsadresse gerichtet werden,
 wobei der laufende Jahresbeitrag vollständig geschuldet bleibt.
+
+#### 3.4.2 Ausschluss
 
 Ein Mitglied kann jederzeit ohne Grundangabe aus dem Verein ausgeschlossen
 werden. Der Vorstand fällt den Ausschlussentscheid. Ausschlüsse, die auf
@@ -96,26 +87,20 @@ Grundlage eines Verstosses gegen den Code of Conduct erfolgen, sollen
 transparent, fair und unter Wahrung der Verhältnismässigkeit geschehen.
 Betroffene Mitglieder haben das Recht, den Ausschlussentscheid an die
 Generalversammlung weiterzuziehen. Die Generalversammlung entscheidet mit
-einfachem Mehr der anwesenden Mitglieder über den Ausschluss.
+einfachem Mehr der anwesenden Mitglieder über den Ausschluss. Mitglieder, die
+nach zweimaliger Mahnung ihren Jahresbeitrag nicht bezahlen, werden aus dem
+Verein ausgeschlossen.
 
-### 12. Organe
+### 4. Organe
 
 Die Organe des Vereins sind:
+
 1. die Generalversammlung
 2. der Vorstand
 
-Das Geschäftsjahr fällt mit dem Kalenderjahr zusammen.
-
 Über die Beschlüsse der Organe ist Protokoll zu führen.
 
-### 13. Kommunikation
-
-Die Kommunikation des Vereins mit den Mitgliedern erfolgt postalisch und/oder
-elektronisch. Jedes Mitglied bezeichnet sowohl eine Post-Adresse wie auch eine
-E-Mail-Adresse, welche der Verein wahlweise zur Anschrift des Mitgliedes
-verwenden kann.
-
-### 14. Mitgliederversammlung
+#### 4.1 Generalversammlung
 
 Das oberste Organ des Vereins ist die Generalversammlung. Eine ordentliche
 Generalversammlung findet jährlich statt und wird vom Vorstand einberufen.
@@ -157,7 +142,7 @@ Briefentscheid oder elektronische Internetabstimmung der Mitglieder einholen.
 In diesem Fall müssen zwischen dem Versand der Stimmunterlagen und dem Termin
 für die Einsendung der Stimmzettel mindestens 30 Tage liegen.
 
-### 15. Vorstand
+### 4.2 Vorstand
 
 Der Vorstand besteht aus einem Präsidenten, einem Vizepräsidenten, einem
 Kassier und weiteren Mitgliedern. Ausser der Wahl des Präsidenten konstituiert
@@ -178,44 +163,7 @@ Konfliktfällen gemäss den darin beschriebenen Grundsätzen.
 
 Die Mitglieder des Vorstandes werden für eine Amtsdauer von einem Jahr gewählt.
 
-### 16. Revision
-
-Ab einem Jahresumsatz von 10’000 CHF wählt die Generalversammlung jährlich
-einen oder mehrere Rechnungsrevisoren, welche die Buchführung kontrollieren.
-Die Revision prüft die Jahresrechnung und erstattet hierüber schriftlich
-Bericht zuhanden der Mitglieder. Bis zu einem Jahresumsatz von 10’000 CHF wird
-kein Rechnungsrevisor bestellt und eine vereinfachte Jahresrechnung erstellt.
-
-### 17. Haftung
-
-Für die Schulden des Vereins haftet ausschliesslich das Vereinsvermögen. Die
-persönliche Haftung und insbesondere eine Nachschusspflicht der Mitglieder ist
-ausgeschlossen.
-
-### 18. Statutenänderung
-
-Der Vorstand oder 10% der Mitglieder können eine Änderung der Statuten
-beantragen. Der Wortlaut des Änderungsantrages ist der Traktandenliste der
-darüber beschliessenden Generalversammlung beizulegen.
-
-Die vorliegenden Statuten können abgeändert werden, wenn zwei Drittel der
-anwesenden Mitglieder dem Änderungsvorschlag zustimmen.
-
-### 19. Auflösung des Vereins
-
-Über die Auflösung des Vereins sowie die Verwendung des Vereinsvermögens
-beschliesst die Mitgliederversammlung mit Zweidrittelmehrheit der anwesenden
-Mitglieder.
-
-Bei einer Auflösung des Vereins fällt das Vereinsvermögen an eine Institution,
-welche den gleichen oder einen ähnlichen Zweck verfolgt.
-
-### 20. Inkrafttreten
-
-Diese Statuten sind an der Gründungsversammlung vom 16. Dezember 2019
-angenommen worden und sind mit diesem Datum in Kraft getreten.
-
-### 21. Regelwerke und Ordnungen
+### 5. Regelwerke und Ordnungen
 
 Zur Erfüllung des Vereinszwecks kann der Verein ergänzende Regelwerke und
 Ordnungen erlassen. Dazu zählt insbesondere der Code of Conduct, welcher die
@@ -227,3 +175,61 @@ einfachem Mehr der anwesenden Mitglieder bestätigt oder abgelehnt.
 
 Die Regelwerke sind für alle Mitglieder verbindlich, sobald sie von der
 Generalversammlung angenommen oder bestätigt wurden.
+
+### 6. Kommunikation
+
+Die Kommunikation des Vereins mit den Mitgliedern erfolgt postalisch und/oder
+elektronisch. Jedes Mitglied bezeichnet sowohl eine Post-Adresse wie auch eine
+E-Mail-Adresse, welche der Verein wahlweise zur Anschrift des Mitgliedes
+verwenden kann.
+
+### 7. Finanzielles
+
+#### 7.1 Mittel
+
+Die Mittel des Vereins setzen sich aus Mitgliederbeiträgen und
+Sponsoringbeiträgen zusammen. Die Höhe der Einzel- und
+Kollektivmitgliederbeiträge wird jährlich von der Mitgliederversammlung
+festgelegt. Die Höhe der Studentenmitgliederbeiträge und der
+Sponsormitgliederbeiträge wird durch den Vorstand festgelegt.
+
+#### 7.2 Geschäftsjahr
+
+Das Geschäftsjahr entspricht dem Kalenderjahr.
+
+#### 7.3 Revision
+
+Ab einem Jahresumsatz von 10’000 CHF wählt die Generalversammlung jährlich
+einen oder mehrere Rechnungsrevisoren, welche die Buchführung kontrollieren.
+Die Revision prüft die Jahresrechnung und erstattet hierüber schriftlich
+Bericht zuhanden der Mitglieder. Bis zu einem Jahresumsatz von 10’000 CHF wird
+kein Rechnungsrevisor bestellt und eine vereinfachte Jahresrechnung erstellt.
+
+#### 7.4 Haftung
+
+Für die Schulden des Vereins haftet ausschliesslich das Vereinsvermögen. Die
+persönliche Haftung und insbesondere eine Nachschusspflicht der Mitglieder ist
+ausgeschlossen.
+
+### 8. Statutenänderung
+
+Der Vorstand oder 10% der Mitglieder können eine Änderung der Statuten
+beantragen. Der Wortlaut des Änderungsantrages ist der Traktandenliste der
+darüber beschliessenden Generalversammlung beizulegen.
+
+Die vorliegenden Statuten können abgeändert werden, wenn zwei Drittel der
+anwesenden Mitglieder dem Änderungsvorschlag zustimmen.
+
+### 9. Auflösung des Vereins
+
+Über die Auflösung des Vereins sowie die Verwendung des Vereinsvermögens
+beschliesst die Mitgliederversammlung mit Zweidrittelmehrheit der anwesenden
+Mitglieder.
+
+Bei einer Auflösung des Vereins fällt das Vereinsvermögen an eine Institution,
+welche den gleichen oder einen ähnlichen Zweck verfolgt.
+
+### 10. Inkrafttreten
+
+Diese Statuten sind an der Generalversammlung vom 24. Juni 2025 angenommen
+worden und sind mit diesem Datum in Kraft getreten.
