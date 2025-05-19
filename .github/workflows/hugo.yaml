@@ -24,9 +24,32 @@ defaults:
 jobs:
   build:
     runs-on: ubuntu-latest
+    environment: hugo
     env:
       HUGO_VERSION: 0.141.0
     steps:
+      - name: Trigger Events JSON Workflow in ical2json
+        run: |
+          set -euo pipefail
+
+          echo "Triggering workflow dispatch in codersonlych/ical2json"
+
+          RESPONSE=$(mktemp)
+          STATUS_CODE=$(curl -s -o "$RESPONSE" -w "%{http_code}" \
+            -X POST \
+            -H "Authorization: Bearer ${{ secrets.REPO_PAT }}" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/codersonlych/ical2json/actions/workflows/update-events.yaml/dispatches \
+            -d '{"ref":"main"}')
+
+          if [ "$STATUS_CODE" -ne 204 ]; then
+            echo "::error ::Workflow dispatch failed with status code $STATUS_CODE"
+            cat "$RESPONSE"
+            exit 1
+          else
+            echo "Workflow dispatch succeeded"
+          fi
+
       - name: Install Hugo CLI
         run: |
           wget -O ${{ runner.temp }}/hugo.deb \
