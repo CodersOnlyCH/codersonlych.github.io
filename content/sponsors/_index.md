@@ -32,7 +32,7 @@ By sponsoring Coders Only, you’re not just supporting events—you’re invest
 in the professional development of software engineers and strengthening
 Switzerland’s tech ecosystem.
 
-Want to become a sponsor? Let’s talk! Contact us at
+Want to become a sponsor? Check out the [contract template](contract-template.pdf) and let’s talk! Contact us at
 [contact@codersonly.org](mailto:contact@codersonly.org).
 
 We look forward to partnering with you!
