@@ -1,0 +1,35 @@
+name: Update Events JSON
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-events:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install git+https://github.com/CodersOnlyCH/ical2json.git
+
+      - name: Fetch Events and Generate JSON
+        run: |
+          ical2json --url "https://www.meetup.com/coders-only/events/ical/" > events.json
+
+      - name: Upload JSON as an Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: events-json
+          path: events.json
+          retention-days: 14
