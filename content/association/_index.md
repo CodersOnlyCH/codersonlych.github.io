@@ -38,7 +38,7 @@ Account Holder: Coders Only, 8000 Zürich
 
 {{< box title="Channels" >}}
 - [Discord](https://discord.gg/jWUZsKQvrz)
-- [E-Mail](mailto:contact@codersonly.org)
+- [E-Mail](mailto:boardmembers@codersonly.org)
 - [GitHub](https://github.com/codersonlych)
 - [LinkedIn](https://linkedin.com/company/coders-only)
 - [Mastodon](https://mastodon.social/@codersonly)

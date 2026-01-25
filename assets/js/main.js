@@ -15,7 +15,7 @@ register({
 let lastSubmissionTime = 0;
 const SUBMISSION_INTERVAL = 30_000;
 const FORM_URL = "https://codersonly.clubdesk.com/home";
-const FAILED = "Oopsies! An error occurred... maybe it's easier to send us an email? contact@codersonly.org";
+const FAILED = "Oopsies! An error occurred... maybe it's easier to send us an email? boardmembers@codersonly.org";
 
 function dataErrors(data) {
     let errors = [];
@@ -72,7 +72,7 @@ function successMessage(data) {
 
 A member of the board will contact you soon.
 
-If you don't hear from us, reach out at 📧 contact@codersonly.org.
+If you don't hear from us, reach out at 📧 boardmembers@codersonly.org.
 (Something might have gone wrong with our association management system.)
 
 Coders Only ❤️ u`;

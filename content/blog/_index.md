@@ -17,4 +17,4 @@ insights to share, or want to highlight something exciting, we encourage you to
 this space vibrant and valuable.
 
 Want to contribute? Get in touch on [Discord](https://discord.gg/bDHySNpsg6) or
-via [email](mailto:contact@codersonly.org)!
+via [email](mailto:boardmembers@codersonly.org)!

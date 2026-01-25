@@ -17,7 +17,7 @@ Here’s what happens next:
 - Check out our upcoming events and start engaging with fellow members!
 
 If you have any questions, feel free to reach out at
-[contact@codersonly.org](mailto:contact@codersonly.org).
+[boardmembers@codersonly.org](mailto:boardmembers@codersonly.org).
 
 Happy coding, and welcome aboard!
 
