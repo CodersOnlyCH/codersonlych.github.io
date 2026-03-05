@@ -14,9 +14,7 @@ register({
 
 let lastSubmissionTime = 0;
 const SUBMISSION_INTERVAL = 30_000;
-const FORM_URL = "https://silentforms.com/server/api/submit";
-const ACCESS_KEY =
-  "3bbabd251d22254396c847224d4dbd04cc0fc4d5dada6e4b4af3cadca51bab74";
+const FORM_URL = "https://submit-form.com/b5g5SVQ9U";
 const FAILED =
   "Oopsies! An error occurred... maybe it's easier to send us an email? boardmembers@codersonly.org";
 
@@ -45,25 +43,14 @@ function sentRecently() {
   return SUBMISSION_INTERVAL > Date.now() - lastSubmissionTime;
 }
 
-function toFormData(data) {
-  _data.append("first-name", data.first);
-  _data.append("last-name", data.last);
-  _data.append("email", data.email);
-  _data.append("public", data.public ? "Ja" : "");
-  _data.append("social", data.handles);
-  _data.append("accessKey", ACCESS_KEY);
-  _data.append("honeypot", "");
-  return _data;
-}
-
-function submitForm(data) {
+function submit(data) {
   return fetch(FORM_URL, {
     method: "POST",
     mode: "no-cors",
     headers: {
-      "Content-Type": "application/x-www-form-urlencoded",
+      "Content-Type": "application/json",
     },
-    body: toFormData(data),
+    body: JSON.stringify(data),
   });
 }
 
@@ -92,7 +79,7 @@ window.register = function (data) {
     );
     return false;
   }
-  submitForm(data)
+  submit(data)
     .then((response) => {
       lastSubmissionTime = Date.now();
       console.log(successMessage(data));
