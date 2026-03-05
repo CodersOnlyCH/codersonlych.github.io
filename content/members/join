@@ -44,18 +44,18 @@ else
     public_value=""
 fi
 
-FORM_URL="https://codersonly.clubdesk.com/home"
+FORM_URL="https://silentforms.com/server/api/submit"
+ACCESS_KEY="3bbabd251d22254396c847224d4dbd04cc0fc4d5dada6e4b4af3cadca51bab74"
 
 HTTP_RESPONSE=$(curl -s -o /dev/null -w"%{http_code}" -X POST "$FORM_URL" \
      -H "Content-Type: application/x-www-form-urlencoded" \
-     --data-urlencode "1000066=" \
-     --data-urlencode "1000066_col_024=1000066_val_024" \
-     --data-urlencode "1000066_col_1=$first_name" \
-     --data-urlencode "1000066_col_2=$last_name" \
-     --data-urlencode "1000066_col_3=$email" \
-     --data-urlencode "1000066_attr_1739953922200=$public_value" \
-     --data-urlencode "1000066_attr_1739953011633=$handles" \
-     --data-urlencode "079_col_023=")  # Honeypot field, should be left empty
+     --data-urlencode "accessKey=$ACCESS_KEY" \
+     --data-urlencode "first_name=$first_name" \
+     --data-urlencode "last_name=$last_name" \
+     --data-urlencode "email=$email" \
+     --data-urlencode "public=$public_value" \
+     --data-urlencode "social=$handles" \
+     --data-urlencode "honeypot=")  # Honeypot field, should be left empty
 
 cat <<EOS
 
