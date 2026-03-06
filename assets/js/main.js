@@ -43,18 +43,6 @@ function sentRecently() {
   return SUBMISSION_INTERVAL > Date.now() - lastSubmissionTime;
 }
 
-function submit(data) {
-  return fetch(FORM_URL, {
-    method: "POST",
-    mode: "no-cors",
-    headers: {
-      "Content-Type": "application/json",
-      Accept: "application/json",
-    },
-    body: JSON.stringify(data),
-  });
-}
-
 function successMessage(data) {
   return `Welcome aboard ${data.first}!
 
@@ -81,7 +69,15 @@ window.register = function (data) {
     );
     return false;
   }
-  submit(data)
+  return fetch(FORM_URL, {
+    method: "POST",
+    mode: "no-cors",
+    headers: {
+      "Content-Type": "application/json",
+      Accept: "application/json",
+    },
+    body: JSON.stringify(data),
+  })
     .then((response) => {
       lastSubmissionTime = Date.now();
       console.log(successMessage(data));
