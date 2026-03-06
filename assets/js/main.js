@@ -67,6 +67,7 @@ Coders Only ❤️ u`;
 
 window.register = function (data) {
   data.handles = data.handles || "no handles";
+  data.source = "javascript";
 
   const errors = dataErrors(data);
   if (errors.length > 0) {

@@ -51,7 +51,8 @@ HTTP_RESPONSE=$(curl -X POST "$FORM_URL" \
      -d "last_name=$last_name" \
      -d "email=$email" \
      -d "public=$public_value" \
-     -d "handles=$handles")
+     -d "handles=$handles" \
+     -d "source=curl")
 
 cat <<EOS
 
