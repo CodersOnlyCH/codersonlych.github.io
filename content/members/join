@@ -47,8 +47,8 @@ fi
 FORM_URL="https://submit-form.com/b5g5SVQ9U"
 
 HTTP_RESPONSE=$(curl -X POST "$FORM_URL" \
-     -d "first_name=$first_name" \
-     -d "last_name=$last_name" \
+     -d "first-name=$first_name" \
+     -d "last-name=$last_name" \
      -d "email=$email" \
      -d "public=$public_value" \
      -d "handles=$handles" \
