@@ -49,6 +49,7 @@ function submit(data) {
     mode: "no-cors",
     headers: {
       "Content-Type": "application/json",
+      Accept: "application/json",
     },
     body: JSON.stringify(data),
   });
