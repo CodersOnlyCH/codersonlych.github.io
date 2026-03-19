@@ -29,8 +29,8 @@ This document exists to offer guidance.
 
 ## Guidance
 
--   **We do not tolerate discrimination or exclusion.**
-    Regardless of intent, such behavior causes harm and goes against our values.
+-   Discrimination or exclusion causes harm.
+    **We therefore do not tolerate it.**
 
 -   **We understand that mistakes happen.**
     People grow. Missteps are part of being human, and what matters most is how
