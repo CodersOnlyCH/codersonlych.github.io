@@ -20,7 +20,7 @@ Anwesende Mitglieder:
 - Pablo Vergés
 - Samir Talwar
 - Andreas Zweili
-- Andreas 
+- Andreas Peter
 - Marc Jakobi
 - Marco
 - Victor Ruch
@@ -78,9 +78,9 @@ einstimmig entlastet.
 
 #### 7.1 Wahl des Vorstandes
 
-Es werden 4 Vorstandsmitglieder gewählt. Andrew Magerman, Mathias Osswald,
-Oliver Nautsch und Pablo Vergés erklären sich bereit, das Amt zu übernehmen.
-Alle vier Kandidaten werden einstimmig gewählt.
+Es werden 3 Vorstandsmitglieder gewählt. Andrew Magerman, Andreas Peter, 
+ und Pablo Vergés erklären sich bereit, das Amt zu übernehmen.
+Alle drei Kandidaten werden einstimmig gewählt.
 
 #### 7.2 Wahl des Vorsitzendes des Vorstandes
 
@@ -97,15 +97,20 @@ Der Vorstand gibt einen Bericht über die Aktivitäten des Vereins im kommenden
 Jahr. Er erwähnt dabei insbesondere die bestehenden und bekannten
 Veranstaltungen.
 
-### 10. Varia
+### 10. Code of Conduct
 
-#### 10.1 Diverse Ideen ueber Swag/Goodies:
+We do not revert the commit but we will improve the wording
 
-- A5 Notebook a la moleskin
-- Nametag
-- Laptop oder Smartphone skins (aber schwierig: one-size-fits-all)
+### 11. Discord and Age Verification
 
-### 11. Schlusswort
+We decide to keep Discord for the moment. Samir tried several alternatives. 
+We don't have an immediate Handlungsbedarf.
+
+### 12. Enter Technikwelt 
+
+### 13. Ausblick 2026
+
+### 13. Schlusswort
 
 Der Vorstand bedankt sich bei allen Anwesenden und schliesst die
 Generalversammlung des Vereins Coders Only.
