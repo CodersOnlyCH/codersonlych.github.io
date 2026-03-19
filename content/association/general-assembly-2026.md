@@ -10,7 +10,7 @@ draft = false
 
 ## Protokoll der Generalversammlung des Vereins Coders Only am 16. Maerz 2026
 
-Ort: Wiedikon XXX 
+Ort: Petit-Bureau Reseda, Badenerstrasse 230, 8004 Zürich
 Beginn: 19:00 Uhr
 
 Anwesende Mitglieder:
@@ -22,7 +22,7 @@ Anwesende Mitglieder:
 - Andreas Zweili
 - Andreas Peter
 - Marc Jakobi
-- Marco
+- Marco Ravicini
 - Victor Ruch
 
 Anwesende Sponsoren:  
@@ -100,6 +100,8 @@ Veranstaltungen.
 ### 10. Verhaltenskodex
 
 Wir machen den Commit nicht rueckgaengig, werden die Formulierung aber verbessern.
+
+Die Aenderungen sind ad hoc besprochen worden, 9 Stimmen fuer 2 Enthaltungen.
 
 ### 11. Discord und Altersverifikation
 
