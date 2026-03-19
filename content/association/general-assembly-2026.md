@@ -1,5 +1,5 @@
 +++
-title = 'General Assembly 2026'
+title = 'Generalversammlung 2026'
 date = 2026-03-19T19:00:00-00:00
 draft = false
 +++
@@ -97,14 +97,14 @@ Der Vorstand gibt einen Bericht über die Aktivitäten des Vereins im kommenden
 Jahr. Er erwähnt dabei insbesondere die bestehenden und bekannten
 Veranstaltungen.
 
-### 10. Code of Conduct
+### 10. Verhaltenskodex
 
-We do not revert the commit but we will improve the wording
+Wir machen den Commit nicht rueckgaengig, werden die Formulierung aber verbessern.
 
-### 11. Discord and Age Verification
+### 11. Discord und Altersverifikation
 
-We decide to keep Discord for the moment. Samir tried several alternatives. 
-We don't have an immediate Handlungsbedarf.
+Wir entscheiden, Discord vorerst beizubehalten. Samir hat mehrere Alternativen
+ausprobiert. Wir haben keinen unmittelbaren Handlungsbedarf.
 
 ### 12. Enter Technikwelt 
 
