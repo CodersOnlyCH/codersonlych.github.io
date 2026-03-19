@@ -30,9 +30,8 @@ Account Holder: Coders Only, 8000 Zürich
 {{< /box >}}
 
 {{< box title="Board Members" >}}
+- Andreas Peter
 - Andrew Magerman
-- Matthias Osswald
-- Oliver Nautsch
 - Pablo Verges
 {{< /box >}}
 
@@ -52,12 +51,13 @@ Meetup Members: > 2500
 Discord Members: > 200  
 Yearly Events: > 50  
 Members: > 50  
-Sponsors: 6  
+Sponsors: 4
 {{< /box >}}
 
 {{< box title="Documents" >}}
 - [Bylaws](bylaws)
 - [Founding Charter](founding-charter)
+- [General Assembly 2026](general-assembly-2026)
 - [Extraordinary General Assembly 2025-06-24](extraordinary-general-assembly-2025-06-24)
 - [General Assembly 2025](general-assembly-2025)
 - [General Assembly 2024](general-assembly-2024)
