@@ -57,6 +57,7 @@ Sponsors: 4
 {{< box title="Documents" >}}
 - [Bylaws](bylaws)
 - [Founding Charter](founding-charter)
+- [Extraordinary General Assembly 2026-09-08](extraordinary-general-assembly-2026-09-08)
 - [General Assembly 2026](general-assembly-2026)
 - [Extraordinary General Assembly 2025-06-24](extraordinary-general-assembly-2025-06-24)
 - [General Assembly 2025](general-assembly-2025)
