@@ -63,7 +63,7 @@ Here’s how and where we make it happen.
 
   {{< box title="SoCraTes Day" >}}
   We are proud to be the oldest SoCraTes unconference in Switzerland! [SoCraTes
-  Day](https://socrates-day.ch/) is a self-organized unconference where
+  Day](https://infomaniak.events/en-ch/conferences/socrates-day-switzerland-2026/05d8a7dc-5418-460d-bdc5-7b473375be17/event/1647607) is a self-organized unconference where
   enthusiasts come together to discuss software craftsmanship, clean code,
   agile methodologies, and beyond. [Sign up to our mailing
   list](https://buttondown.email/CodersOnly) to be informed when the tickets to

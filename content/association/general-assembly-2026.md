@@ -46,7 +46,7 @@ sich bereit, das Amt zu übernehmen.
 
 #### 2.2 Wahl des Protokollanten
 
-Als Protokollant wird Andrew gewählt.
+Als Protokollant wird Andrew Magerman gewählt.
 
 #### 2.3 Bestimmen stimmberechtigte Mitglieder und Sponsoren
 
