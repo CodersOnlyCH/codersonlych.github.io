@@ -14,18 +14,20 @@ Ort: Petit-Bureau Reseda, Badenerstrasse 230, 8004 Zürich
 Beginn: 19:00 Uhr
 
 Anwesende Mitglieder:
-- Andreas Peter
-- Andreas Zweili
 - Andrew Magerman
 - Géza Mihala
-- Marc Jakobi
-- Marco Ravicini
 - Mathias Osswald
 - Pablo Vergés
 - Samir Talwar
+- Andreas Zweili
+- Andreas Peter
+- Marc Jakobi
+- Marco Ravicini
 - Victor Ruch
 
 Anwesende Sponsoren:  
+- Bring! Labs AG  
+- House of Test  
 - megazord.studio  
 
 ## Traktanden
@@ -110,7 +112,7 @@ ausprobiert. Wir haben keinen unmittelbaren Handlungsbedarf.
 
 ### 13. Ausblick 2026
 
-### Schlusswort
+### 13. Schlusswort
 
 Der Vorstand bedankt sich bei allen Anwesenden und schliesst die
 Generalversammlung des Vereins Coders Only.
